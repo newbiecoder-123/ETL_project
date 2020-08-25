@@ -1,0 +1,2646 @@
+county,zip,fips,city,classfp
+Alameda,94501,6001,Alameda,H1
+Alameda,94560,6001,Newark,H1
+Alameda,94577,6001,San leandro,H1
+Alameda,94578,6001,San leandro,H1
+Alameda,94550,6001,Livermore,H1
+Alameda,94611,6001,Oakland,H1
+Alameda,94705,6001,Berkeley,H1
+Alameda,94505,6001,Discovery bay,H1
+Alameda,94568,6001,Dublin,H1
+Alameda,94551,6001,Livermore,H1
+Alameda,94586,6001,Sunol,H1
+Alameda,94702,6001,Berkeley,H1
+Alameda,94709,6001,Berkeley,H1
+Alameda,94662,6001,Emeryville,H1
+Alameda,94514,6001,Byron,H1
+Alameda,94544,6001,Hayward,H1
+Alameda,94566,6001,Pleasanton,H1
+Alameda,94608,6001,Emeryville,H1
+Alameda,94609,6001,Oakland,H1
+Alameda,94707,6001,Berkeley,H1
+Alameda,94604,6001,Oakland,H1
+Alameda,95035,6001,Milpitas,H1
+Alameda,94543,6001,Hayward,H1
+Alameda,94614,6001,Oakland,H1
+Alameda,94712,6001,Berkeley,H1
+Alameda,94540,6001,Hayward,H1
+Alameda,94541,6001,Hayward,H1
+Alameda,94555,6001,Fremont,H1
+Alameda,94579,6001,San leandro,H1
+Alameda,94612,6001,Oakland,H1
+Alameda,94601,6001,Oakland,H1
+Alameda,94623,6001,Oakland,H1
+Alameda,94536,6001,Fremont,H1
+Alameda,94552,6001,Castro valley,H1
+Alameda,94621,6001,Oakland,H1
+Alameda,94703,6001,Berkeley,H1
+Alameda,95377,6001,Tracy,H1
+Alameda,94708,6001,Berkeley,H1
+Alameda,94620,6001,Piedmont,H1
+Alameda,94615,6001,Oakland,H1
+Alameda,94546,6001,Castro valley,H1
+Alameda,94588,6001,Pleasanton,H1
+Alameda,94603,6001,Oakland,H1
+Alameda,94605,6001,Oakland,H1
+Alameda,94606,6001,Oakland,H1
+Alameda,94704,6001,Berkeley,H1
+Alameda,94619,6001,Oakland,H1
+Alameda,94706,6001,Albany,H1
+Alameda,94557,6001,Hayward,H1
+Alameda,94539,6001,Fremont,H1
+Alameda,94542,6001,Hayward,H1
+Alameda,94587,6001,Union city,H1
+Alameda,94545,6001,Hayward,H1
+Alameda,94607,6001,Oakland,H1
+Alameda,94618,6001,Oakland,H1
+Alameda,94602,6001,Oakland,H1
+Alameda,94720,6001,Berkeley,H1
+Alameda,95391,6001,Tracy,H1
+Alameda,94701,6001,Berkeley,H1
+Alameda,94661,6001,Oakland,H1
+Alameda,94613,6001,Oakland,H1
+Alameda,94502,6001,Alameda,H1
+Alameda,94538,6001,Fremont,H1
+Alameda,94580,6001,San lorenzo,H1
+Alameda,94610,6001,Oakland,H1
+Alameda,94710,6001,Berkeley,H1
+Alameda,94537,6001,Fremont,H1
+Alameda,94624,6001,Oakland,H1
+Alameda,94666,6001,Oakland,H1
+Alpine,96120,6003,Markleeville,H1
+Alpine,95223,6003,Arnold,H1
+Amador,95666,6005,Pioneer,H1
+Amador,95675,6005,River pines,H1
+Amador,95669,6005,Plymouth,H1
+Amador,95699,6005,Drytown,H1
+Amador,95646,6005,Kirkwood,H1
+Amador,95640,6005,Ione,H1
+Amador,95629,6005,Fiddletown,H1
+Amador,95689,6005,Volcano,H1
+Amador,95685,6005,Sutter creek,H1
+Amador,95654,6005,Martell,H1
+Amador,95665,6005,Pine grove,H1
+Amador,95601,6005,Amador city,H1
+Amador,95642,6005,Jackson,H1
+Butte,95917,6007,Biggs,H1
+Butte,95940,6007,Feather falls,H1
+Butte,95929,6007,Chico,H1
+Butte,95954,6007,Magalia,H1
+Butte,95926,6007,Chico,H1
+Butte,95901,6007,Marysville,H1
+Butte,95973,6007,Chico,H1
+Butte,95914,6007,Bangor,H1
+Butte,95948,6007,Gridley,H1
+Butte,95927,6007,Chico,H1
+Butte,95942,6007,Forest ranch,H1
+Butte,95967,6007,Paradise,H1
+Butte,95968,6007,Palermo,H1
+Butte,95958,6007,Nelson,H1
+Butte,95974,6007,Richvale,H1
+Butte,95916,6007,Berry creek,H1
+Butte,95930,6007,Clipper mills,H1
+Butte,95969,6007,Paradise,H1
+Butte,95938,6007,Durham,H1
+Butte,95941,6007,Forbestown,H1
+Butte,95976,6007,Chico,H1
+Butte,95965,6007,Oroville,H1
+Butte,95978,6007,Stirling city,H1
+Butte,95928,6007,Chico,H1
+Butte,95966,6007,Oroville,H1
+Calaveras,95228,6009,Copperopolis,H1
+Calaveras,95246,6009,Mountain ranch,H1
+Calaveras,95255,6009,West point,H1
+Calaveras,95251,6009,Vallecito,H1
+Calaveras,95248,6009,Rail road flat,H1
+Calaveras,95229,6009,Douglas flat,H1
+Calaveras,95223,6009,Arnold,H1
+Calaveras,95221,6009,Altaville,H1
+Calaveras,95226,6009,Campo seco,H1
+Calaveras,95222,6009,Angels camp,H1
+Calaveras,95232,6009,Glencoe,H1
+Calaveras,95249,6009,San andreas,H1
+Calaveras,95233,6009,Hathaway pines,H1
+Calaveras,95225,6009,Burson,H1
+Calaveras,95252,6009,Valley springs,H1
+Calaveras,95247,6009,Murphys,H1
+Calaveras,95245,6009,Mokelumne hill,H1
+Calaveras,95254,6009,Wallace,H1
+Calaveras,95224,6009,Avery,H1
+Calaveras,95236,6009,Linden,H1
+Calaveras,95230,6009,Farmington,H1
+Calaveras,95257,6009,Wilseyville,H1
+Colusa,95645,6011,Knights landing,H1
+Colusa,95955,6011,Maxwell,H1
+Colusa,95988,6011,Willows,H1
+Colusa,95957,6011,Meridian,H1
+Colusa,95970,6011,Princeton,H1
+Colusa,95979,6011,Stonyford,H1
+Colusa,95939,6011,Elk creek,H1
+Colusa,95950,6011,Grimes,H1
+Colusa,95912,6011,Arbuckle,H1
+Colusa,95932,6011,Colusa,H1
+Colusa,95987,6011,Williams,H1
+Contra Costa,94509,6013,Antioch,H1
+Contra Costa,94519,6013,Concord,H1
+Contra Costa,94553,6013,Martinez,H1
+Contra Costa,94561,6013,Oakley,H1
+Contra Costa,94611,6013,Oakland,H1
+Contra Costa,94598,6013,Walnut creek,H1
+Contra Costa,94524,6013,Concord,H1
+Contra Costa,94526,6013,Danville,H1
+Contra Costa,94505,6013,Discovery bay,H1
+Contra Costa,94568,6013,Dublin,H1
+Contra Costa,94551,6013,Livermore,H1
+Contra Costa,94582,6013,San ramon,H1
+Contra Costa,94547,6013,Hercules,H1
+Contra Costa,94522,6013,Concord,H1
+Contra Costa,94570,6013,Moraga,H1
+Contra Costa,94513,6013,Brentwood,H1
+Contra Costa,94514,6013,Byron,H1
+Contra Costa,94525,6013,Crockett,H1
+Contra Costa,94565,6013,Pittsburg,H1
+Contra Costa,94707,6013,Berkeley,H1
+Contra Costa,94804,6013,Richmond,H1
+Contra Costa,94850,6013,Richmond,H1
+Contra Costa,94549,6013,Lafayette,H1
+Contra Costa,94805,6013,Richmond,H1
+Contra Costa,94806,6013,San pablo,H1
+Contra Costa,94530,6013,El cerrito,H1
+Contra Costa,94564,6013,Pinole,H1
+Contra Costa,94583,6013,San ramon,H1
+Contra Costa,94803,6013,El sobrante,H1
+Contra Costa,94708,6013,Berkeley,H1
+Contra Costa,94575,6013,Moraga,H1
+Contra Costa,94518,6013,Concord,H1
+Contra Costa,94520,6013,Concord,H1
+Contra Costa,94521,6013,Concord,H1
+Contra Costa,94531,6013,Antioch,H1
+Contra Costa,94507,6013,Alamo,H1
+Contra Costa,94572,6013,Rodeo,H1
+Contra Costa,94588,6013,Pleasanton,H1
+Contra Costa,94596,6013,Walnut creek,H1
+Contra Costa,94706,6013,Albany,H1
+Contra Costa,94511,6013,Bethel island,H1
+Contra Costa,94516,6013,Canyon,H1
+Contra Costa,94569,6013,Port costa,H1
+Contra Costa,94517,6013,Clayton,H1
+Contra Costa,94506,6013,Danville,H1
+Contra Costa,94563,6013,Orinda,H1
+Contra Costa,94801,6013,Richmond,H1
+Contra Costa,94802,6013,Richmond,H1
+Contra Costa,94820,6013,El sobrante,H1
+Contra Costa,94807,6013,Richmond,H1
+Contra Costa,94523,6013,Pleasant hill,H1
+Contra Costa,94556,6013,Moraga,H1
+Contra Costa,94595,6013,Walnut creek,H1
+Contra Costa,94597,6013,Walnut creek,H1
+Contra Costa,94548,6013,Knightsen,H1
+Contra Costa,94528,6013,Diablo,H1
+Del Norte,95538,6015,Fort dick,H1
+Del Norte,95543,6015,Gasquet,H1
+Del Norte,95567,6015,Smith river,H1
+Del Norte,95548,6015,Klamath,H1
+Del Norte,95532,6015,Crescent city,H1
+Del Norte,95531,6015,Crescent city,H1
+El Dorado,95666,6017,Pioneer,H1
+El Dorado,95656,6017,Mount aukum,H1
+El Dorado,96155,6017,South lake tahoe,H1
+El Dorado,95634,6017,Georgetown,H1
+El Dorado,95726,6017,Pollock pines,H1
+El Dorado,96158,6017,South lake tahoe,H1
+El Dorado,95629,6017,Fiddletown,H1
+El Dorado,95672,6017,Rescue,H1
+El Dorado,95682,6017,Shingle springs,H1
+El Dorado,95613,6017,Coloma,H1
+El Dorado,95684,6017,Somerset,H1
+El Dorado,95720,6017,Kyburz,H1
+El Dorado,96150,6017,South lake tahoe,H1
+El Dorado,95614,6017,Cool,H1
+El Dorado,95667,6017,Placerville,H1
+El Dorado,95635,6017,Greenwood,H1
+El Dorado,95636,6017,Grizzly flats,H1
+El Dorado,95623,6017,El dorado,H1
+El Dorado,95619,6017,Diamond springs,H1
+El Dorado,95664,6017,Pilot hill,H1
+El Dorado,95735,6017,Twin bridges,H1
+El Dorado,96151,6017,South lake tahoe,H1
+El Dorado,95762,6017,El dorado hills,H1
+El Dorado,95709,6017,Camino,H1
+El Dorado,95633,6017,Garden valley,H1
+El Dorado,95651,6017,Lotus,H1
+El Dorado,96142,6017,Tahoma,H1
+El Dorado,95721,6017,Echo lake,H1
+Fresno,93625,6019,Fowler,H1
+Fresno,93619,6019,Clovis,H1
+Fresno,93647,6019,Orosi,H1
+Fresno,93613,6019,Clovis,H1
+Fresno,93776,6019,Fresno,H1
+Fresno,93778,6019,Fresno,H1
+Fresno,93707,6019,Fresno,H1
+Fresno,93709,6019,Fresno,H1
+Fresno,93720,6019,Fresno,H1
+Fresno,93675,6019,Squaw valley,H1
+Fresno,93650,6019,Fresno,H1
+Fresno,93664,6019,Shaver lake,H1
+Fresno,93716,6019,Fresno,H1
+Fresno,93777,6019,Fresno,H1
+Fresno,93708,6019,Fresno,H1
+Fresno,93741,6019,Fresno,H1
+Fresno,93634,6019,Lakeshore,H1
+Fresno,93761,6019,Fresno,H1
+Fresno,93727,6019,Fresno,H1
+Fresno,93611,6019,Clovis,H1
+Fresno,93612,6019,Clovis,H1
+Fresno,93609,6019,Caruthers,H1
+Fresno,93640,6019,Mendota,H1
+Fresno,93641,6019,Miramonte,H1
+Fresno,93626,6019,Friant,H1
+Fresno,93628,6019,Hume,H1
+Fresno,93711,6019,Fresno,H1
+Fresno,93722,6019,Fresno,H1
+Fresno,93701,6019,Fresno,H1
+Fresno,93714,6019,Fresno,H1
+Fresno,93794,6019,Fresno,H1
+Fresno,93234,6019,Huron,H1
+Fresno,93718,6019,Fresno,H1
+Fresno,93760,6019,Fresno,H1
+Fresno,93786,6019,Fresno,H1
+Fresno,93888,6019,Fresno,H1
+Fresno,93744,6019,Fresno,H1
+Fresno,93620,6019,Dos palos,H1
+Fresno,93747,6019,Fresno,H1
+Fresno,93603,6019,Badger,H1
+Fresno,93729,6019,Fresno,H1
+Fresno,93621,6019,Dunlap,H1
+Fresno,93654,6019,Reedley,H1
+Fresno,93662,6019,Selma,H1
+Fresno,93702,6019,Fresno,H1
+Fresno,93656,6019,Riverdale,H1
+Fresno,93657,6019,Sanger,H1
+Fresno,93792,6019,Fresno,H1
+Fresno,93740,6019,Fresno,H1
+Fresno,93606,6019,Biola,H1
+Fresno,93764,6019,Fresno,H1
+Fresno,93627,6019,Helm,H1
+Fresno,93704,6019,Fresno,H1
+Fresno,93705,6019,Fresno,H1
+Fresno,93726,6019,Fresno,H1
+Fresno,93703,6019,Fresno,H1
+Fresno,93710,6019,Fresno,H1
+Fresno,93728,6019,Fresno,H1
+Fresno,93630,6019,Kerman,H1
+Fresno,93637,6019,Madera,H1
+Fresno,93772,6019,Fresno,H1
+Fresno,93706,6019,Fresno,H1
+Fresno,93616,6019,Del rey,H1
+Fresno,93715,6019,Fresno,H1
+Fresno,93660,6019,San joaquin,H1
+Fresno,93668,6019,Tranquillity,H1
+Fresno,93712,6019,Fresno,H1
+Fresno,93779,6019,Fresno,H1
+Fresno,93725,6019,Fresno,H1
+Fresno,93618,6019,Dinuba,H1
+Fresno,93646,6019,Orange cove,H1
+Fresno,93648,6019,Parlier,H1
+Fresno,93631,6019,Kingsburg,H1
+Fresno,93773,6019,Fresno,H1
+Fresno,93793,6019,Fresno,H1
+Fresno,93844,6019,Fresno,H1
+Fresno,93624,6019,Five points,H1
+Fresno,93642,6019,Mono hot springs,H1
+Fresno,93723,6019,Fresno,H1
+Fresno,93602,6019,Auberry,H1
+Fresno,93622,6019,Firebaugh,H1
+Fresno,93724,6019,Fresno,H1
+Fresno,93771,6019,Fresno,H1
+Fresno,93717,6019,Fresno,H1
+Fresno,93775,6019,Fresno,H1
+Fresno,93649,6019,Piedra,H1
+Fresno,93605,6019,Big creek,H1
+Fresno,93765,6019,Fresno,H1
+Fresno,93210,6019,Coalinga,H1
+Fresno,93745,6019,Fresno,H1
+Fresno,93608,6019,Cantua creek,H1
+Fresno,93242,6019,Laton,H1
+Fresno,93730,6019,Fresno,H1
+Fresno,93737,6019,Fresno,H1
+Fresno,93755,6019,Fresno,H1
+Fresno,93774,6019,Fresno,H1
+Fresno,93721,6019,Fresno,H1
+Fresno,93667,6019,Tollhouse,H1
+Fresno,93651,6019,Prather,H1
+Fresno,93652,6019,Raisin city,H1
+Fresno,93791,6019,Fresno,H1
+Fresno,93790,6019,Fresno,H1
+Fresno,93750,6019,Fresno,H1
+Glenn,95951,6021,Hamilton city,H1
+Glenn,95963,6021,Orland,H1
+Glenn,95913,6021,Artois,H1
+Glenn,95988,6021,Willows,H1
+Glenn,95943,6021,Glenn,H1
+Glenn,95970,6021,Princeton,H1
+Glenn,95939,6021,Elk creek,H1
+Glenn,95920,6021,Butte city,H1
+Humboldt,95540,6023,Fortuna,H1
+Humboldt,95560,6023,Redway,H1
+Humboldt,95550,6023,Korbel,H1
+Humboldt,95563,6023,Salyer,H1
+Humboldt,95501,6023,Eureka,H1
+Humboldt,95524,6023,Bayside,H1
+Humboldt,95528,6023,Carlotta,H1
+Humboldt,95565,6023,Scotia,H1
+Humboldt,95518,6023,Arcata,H1
+Humboldt,95521,6023,Arcata,H1
+Humboldt,95570,6023,Trinidad,H1
+Humboldt,95526,6023,Bridgeville,H1
+Humboldt,95546,6023,Hoopa,H1
+Humboldt,95589,6023,Whitethorn,H1
+Humboldt,95564,6023,Samoa,H1
+Humboldt,95547,6023,Hydesville,H1
+Humboldt,95559,6023,Phillipsville,H1
+Humboldt,95542,6023,Garberville,H1
+Humboldt,95551,6023,Loleta,H1
+Humboldt,95514,6023,Blocksburg,H1
+Humboldt,95503,6023,Eureka,H1
+Humboldt,95519,6023,Mckinleyville,H1
+Humboldt,95536,6023,Ferndale,H1
+Humboldt,95511,6023,Alderpoint,H1
+Humboldt,95502,6023,Eureka,H1
+Humboldt,95555,6023,Orick,H1
+Humboldt,95571,6023,Weott,H1
+Humboldt,95545,6023,Honeydew,H1
+Humboldt,95556,6023,Orleans,H1
+Humboldt,95562,6023,Rio dell,H1
+Humboldt,95558,6023,Petrolia,H1
+Humboldt,95549,6023,Kneeland,H1
+Humboldt,95587,6023,Piercy,H1
+Humboldt,95573,6023,Willow creek,H1
+Humboldt,95537,6023,Fields landing,H1
+Humboldt,95525,6023,Blue lake,H1
+Humboldt,95554,6023,Myers flat,H1
+Humboldt,95568,6023,Somes bar,H1
+Humboldt,95569,6023,Redcrest,H1
+Humboldt,95534,6023,Cutten,H1
+Humboldt,95553,6023,Miranda,H1
+Imperial,92243,6025,El centro,H1
+Imperial,92266,6025,Palo verde,H1
+Imperial,92275,6025,Salton city,H1
+Imperial,92250,6025,Holtville,H1
+Imperial,92231,6025,Calexico,H1
+Imperial,92251,6025,Imperial,H1
+Imperial,92273,6025,Seeley,H1
+Imperial,92257,6025,Niland,H1
+Imperial,92233,6025,Calipatria,H1
+Imperial,92244,6025,El centro,H1
+Imperial,92222,6025,Bard,H1
+Imperial,92227,6025,Brawley,H1
+Imperial,92274,6025,Thermal,H1
+Imperial,92281,6025,Westmorland,H1
+Imperial,92225,6025,Blythe,H1
+Imperial,92232,6025,Calexico,H1
+Imperial,92259,6025,Ocotillo,H1
+Imperial,92249,6025,Heber,H1
+Imperial,92283,6025,Winterhaven,H1
+Inyo,93549,6027,Olancha,H1
+Inyo,93526,6027,Independence,H1
+Inyo,92328,6027,Death valley,H1
+Inyo,93515,6027,Bishop,H1
+Inyo,93545,6027,Lone pine,H1
+Inyo,93513,6027,Big pine,H1
+Inyo,93514,6027,Bishop,H1
+Inyo,93530,6027,Keeler,H1
+Inyo,92384,6027,Shoshone,H1
+Inyo,93522,6027,Darwin,H1
+Inyo,93527,6027,Inyokern,H1
+Inyo,92389,6027,Tecopa,H1
+Kern,93304,6029,Bakersfield,H1
+Kern,93390,6029,Bakersfield,H1
+Kern,93560,6029,Rosamond,H1
+Kern,93504,6029,California city,H1
+Kern,93581,6029,Tehachapi,H1
+Kern,93385,6029,Bakersfield,H1
+Kern,93285,6029,Wofford heights,H1
+Kern,93380,6029,Bakersfield,H1
+Kern,93205,6029,Bodfish,H1
+Kern,93243,6029,Lebec,H1
+Kern,93220,6029,Edison,H1
+Kern,93307,6029,Bakersfield,H1
+Kern,93388,6029,Bakersfield,H1
+Kern,93215,6029,Delano,H1
+Kern,93283,6029,Weldon,H1
+Kern,93386,6029,Bakersfield,H1
+Kern,93556,6029,Ridgecrest,H1
+Kern,93287,6029,Woody,H1
+Kern,93306,6029,Bakersfield,H1
+Kern,93311,6029,Bakersfield,H1
+Kern,93555,6029,Ridgecrest,H1
+Kern,93203,6029,Arvin,H1
+Kern,93250,6029,Mc farland,H1
+Kern,93206,6029,Buttonwillow,H1
+Kern,93384,6029,Bakersfield,H1
+Kern,93502,6029,Mojave,H1
+Kern,93255,6029,Onyx,H1
+Kern,93226,6029,Glennville,H1
+Kern,93528,6029,Johannesburg,H1
+Kern,93301,6029,Bakersfield,H1
+Kern,93308,6029,Bakersfield,H1
+Kern,93305,6029,Bakersfield,H1
+Kern,93302,6029,Bakersfield,H1
+Kern,93505,6029,California city,H1
+Kern,93561,6029,Tehachapi,H1
+Kern,93461,6029,Shandon,H1
+Kern,93268,6029,Taft,H1
+Kern,93241,6029,Lamont,H1
+Kern,93263,6029,Shafter,H1
+Kern,93518,6029,Caliente,H1
+Kern,93249,6029,Lost hills,H1
+Kern,93303,6029,Bakersfield,H1
+Kern,93222,6029,Pine mountain club,H1
+Kern,93312,6029,Bakersfield,H1
+Kern,93501,6029,Mojave,H1
+Kern,93523,6029,Edwards,H1
+Kern,93240,6029,Lake isabella,H1
+Kern,93238,6029,Kernville,H1
+Kern,93251,6029,Mc kittrick,H1
+Kern,93313,6029,Bakersfield,H1
+Kern,93536,6029,Lancaster,H1
+Kern,93516,6029,Boron,H1
+Kern,93219,6029,Earlimart,H1
+Kern,93224,6029,Fellows,H1
+Kern,93252,6029,Maricopa,H1
+Kern,93554,6029,Randsburg,H1
+Kern,93309,6029,Bakersfield,H1
+Kern,93387,6029,Bakersfield,H1
+Kern,93524,6029,Edwards,H1
+Kern,93531,6029,Keene,H1
+Kern,93276,6029,Tupman,H1
+Kern,93314,6029,Bakersfield,H1
+Kern,93527,6029,Inyokern,H1
+Kern,93225,6029,Frazier park,H1
+Kern,93280,6029,Wasco,H1
+Kern,93389,6029,Bakersfield,H1
+Kings,93239,6031,Kettleman city,H1
+Kings,93266,6031,Stratford,H1
+Kings,93656,6031,Riverdale,H1
+Kings,93274,6031,Tulare,H1
+Kings,93246,6031,Lemoore,H1
+Kings,93204,6031,Avenal,H1
+Kings,93230,6031,Hanford,H1
+Kings,93631,6031,Kingsburg,H1
+Kings,93212,6031,Corcoran,H1
+Kings,93202,6031,Armona,H1
+Kings,93232,6031,Hanford,H1
+Kings,93245,6031,Lemoore,H1
+Kings,93242,6031,Laton,H1
+Lake,95457,6033,Lower lake,H1
+Lake,95423,6033,Clearlake oaks,H1
+Lake,95424,6033,Clearlake park,H1
+Lake,95451,6033,Kelseyville,H1
+Lake,95467,6033,Hidden valley lake,H1
+Lake,95485,6033,Upper lake,H1
+Lake,95422,6033,Clearlake,H1
+Lake,95458,6033,Lucerne,H1
+Lake,95453,6033,Lakeport,H1
+Lake,95461,6033,Middletown,H1
+Lake,95435,6033,Finley,H1
+Lake,95464,6033,Nice,H1
+Lake,95443,6033,Glenhaven,H1
+Lake,95426,6033,Cobb,H1
+Lake,95469,6033,Potter valley,H1
+Lake,95493,6033,Witter springs,H1
+Lassen,96114,6035,Janesville,H1
+Lassen,96121,6035,Milford,H1
+Lassen,96128,6035,Standish,H1
+Lassen,96132,6035,Termo,H1
+Lassen,96136,6035,Wendel,H1
+Lassen,96119,6035,Madeline,H1
+Lassen,96109,6035,Doyle,H1
+Lassen,96009,6035,Bieber,H1
+Lassen,96127,6035,Susanville,H1
+Lassen,96117,6035,Litchfield,H1
+Lassen,96130,6035,Susanville,H1
+Lassen,96056,6035,Mcarthur,H1
+Lassen,96068,6035,Nubieber,H1
+Lassen,96137,6035,Westwood,H1
+Lassen,96113,6035,Herlong,H1
+Lassen,96123,6035,Ravendale,H1
+Los Angeles,90013,6037,Los angeles,H1
+Los Angeles,90232,6037,Culver city,H1
+Los Angeles,90067,6037,Los angeles,H1
+Los Angeles,90254,6037,Hermosa beach,H1
+Los Angeles,90305,6037,Inglewood,H1
+Los Angeles,90409,6037,Santa monica,H1
+Los Angeles,90723,6037,Paramount,H1
+Los Angeles,90749,6037,Carson,H1
+Los Angeles,90710,6037,Harbor city,H1
+Los Angeles,90507,6037,Torrance,H1
+Los Angeles,90043,6037,Los angeles,H1
+Los Angeles,90059,6037,Los angeles,H1
+Los Angeles,91101,6037,Pasadena,H1
+Los Angeles,91202,6037,Glendale,H1
+Los Angeles,91008,6037,Duarte,H1
+Los Angeles,91304,6037,Canoga park,H1
+Los Angeles,91328,6037,Northridge,H1
+Los Angeles,91307,6037,West hills,H1
+Los Angeles,93560,6037,Rosamond,H1
+Los Angeles,91384,6037,Castaic,H1
+Los Angeles,91405,6037,Van nuys,H1
+Los Angeles,91345,6037,Mission hills,H1
+Los Angeles,91350,6037,Santa clarita,H1
+Los Angeles,90670,6037,Santa fe springs,H1
+Los Angeles,90660,6037,Pico rivera,H1
+Los Angeles,90638,6037,La mirada,H1
+Los Angeles,91711,6037,Claremont,H1
+Los Angeles,91755,6037,Monterey park,H1
+Los Angeles,91791,6037,West covina,H1
+Los Angeles,91770,6037,Rosemead,H1
+Los Angeles,91780,6037,Temple city,H1
+Los Angeles,90051,6037,Los angeles,H1
+Los Angeles,91025,6037,Sierra madre,H1
+Los Angeles,91778,6037,San gabriel,H1
+Los Angeles,91614,6037,Studio city,H1
+Los Angeles,91066,6037,Arcadia,H1
+Los Angeles,91327,6037,Northridge,H1
+Los Angeles,93243,6037,Lebec,H1
+Los Angeles,91407,6037,Van nuys,H1
+Los Angeles,90310,6037,Inglewood,H1
+Los Angeles,91603,6037,North hollywood,H1
+Los Angeles,90306,6037,Inglewood,H1
+Los Angeles,91021,6037,Montrose,H1
+Los Angeles,90822,6037,Long beach,H1
+Los Angeles,91123,6037,Pasadena,H1
+Los Angeles,91129,6037,Pasadena,H1
+Los Angeles,91804,6037,Alhambra,H1
+Los Angeles,90017,6037,Los angeles,H1
+Los Angeles,90021,6037,Los angeles,H1
+Los Angeles,90210,6037,Beverly hills,H1
+Los Angeles,90071,6037,Los angeles,H1
+Los Angeles,90266,6037,Manhattan beach,H1
+Los Angeles,90265,6037,Malibu,H1
+Los Angeles,90401,6037,Santa monica,H1
+Los Angeles,90503,6037,Torrance,H1
+Los Angeles,90267,6037,Manhattan beach,H1
+Los Angeles,90505,6037,Torrance,H1
+Los Angeles,90748,6037,Wilmington,H1
+Los Angeles,90039,6037,Los angeles,H1
+Los Angeles,90033,6037,Los angeles,H1
+Los Angeles,90065,6037,Los angeles,H1
+Los Angeles,90058,6037,Los angeles,H1
+Los Angeles,91016,6037,Monrovia,H1
+Los Angeles,91030,6037,South pasadena,H1
+Los Angeles,91105,6037,Pasadena,H1
+Los Angeles,91207,6037,Glendale,H1
+Los Angeles,91343,6037,North hills,H1
+Los Angeles,91605,6037,North hollywood,H1
+Los Angeles,91601,6037,North hollywood,H1
+Los Angeles,91504,6037,Burbank,H1
+Los Angeles,93550,6037,Palmdale,H1
+Los Angeles,93534,6037,Lancaster,H1
+Los Angeles,93552,6037,Palmdale,H1
+Los Angeles,93553,6037,Pearblossom,H1
+Los Angeles,91387,6037,Canyon country,H1
+Los Angeles,91386,6037,Canyon country,H1
+Los Angeles,90604,6037,Whittier,H1
+Los Angeles,90605,6037,Whittier,H1
+Los Angeles,90606,6037,Whittier,H1
+Los Angeles,91723,6037,Covina,H1
+Los Angeles,91734,6037,El monte,H1
+Los Angeles,91750,6037,La verne,H1
+Los Angeles,91801,6037,Alhambra,H1
+Los Angeles,91773,6037,San dimas,H1
+Los Angeles,91790,6037,West covina,H1
+Los Angeles,90052,6037,Los angeles,H1
+Los Angeles,90840,6037,Long beach,H1
+Los Angeles,91210,6037,Glendale,H1
+Los Angeles,91322,6037,Newhall,H1
+Los Angeles,91003,6037,Altadena,H1
+Los Angeles,91310,6037,Castaic,H1
+Los Angeles,93584,6037,Lancaster,H1
+Los Angeles,90408,6037,Santa monica,H1
+Los Angeles,90734,6037,San pedro,H1
+Los Angeles,91226,6037,Glendale,H1
+Los Angeles,91385,6037,Valencia,H1
+Los Angeles,91503,6037,Burbank,H1
+Los Angeles,90506,6037,Torrance,H1
+Los Angeles,90651,6037,Norwalk,H1
+Los Angeles,90084,6037,Los angeles,H1
+Los Angeles,91714,6037,City of industry,H1
+Los Angeles,91772,6037,Rosemead,H1
+Los Angeles,90662,6037,Pico rivera,H1
+Los Angeles,91899,6037,Alhambra,H1
+Los Angeles,91329,6037,Northridge,H1
+Los Angeles,91522,6037,Burbank,H1
+Los Angeles,91495,6037,Sherman oaks,H1
+Los Angeles,90012,6037,Los angeles,H1
+Los Angeles,90019,6037,Los angeles,H1
+Los Angeles,90024,6037,Los angeles,H1
+Los Angeles,90005,6037,Los angeles,H1
+Los Angeles,90010,6037,Los angeles,H1
+Los Angeles,90023,6037,Los angeles,H1
+Los Angeles,90231,6037,Culver city,H1
+Los Angeles,90245,6037,El segundo,H1
+Los Angeles,90249,6037,Gardena,H1
+Los Angeles,90066,6037,Los angeles,H1
+Los Angeles,90201,6037,Bell gardens,H1
+Los Angeles,90240,6037,Downey,H1
+Los Angeles,90262,6037,Lynwood,H1
+Los Angeles,90091,6037,Los angeles,H1
+Los Angeles,90275,6037,Rancho palos verdes,H1
+Los Angeles,90716,6037,Hawaiian gardens,H1
+Los Angeles,90745,6037,Carson,H1
+Los Angeles,90701,6037,Artesia,H1
+Los Angeles,90755,6037,Signal hill,H1
+Los Angeles,90806,6037,Long beach,H1
+Los Angeles,90036,6037,Los angeles,H1
+Los Angeles,90038,6037,Los angeles,H1
+Los Angeles,90040,6037,Los angeles,H1
+Los Angeles,90032,6037,Los angeles,H1
+Los Angeles,90049,6037,Los angeles,H1
+Los Angeles,90061,6037,Los angeles,H1
+Los Angeles,91020,6037,Montrose,H1
+Los Angeles,91040,6037,Sunland,H1
+Los Angeles,91201,6037,Glendale,H1
+Los Angeles,91301,6037,Agoura hills,H1
+Los Angeles,91604,6037,Studio city,H1
+Los Angeles,91606,6037,North hollywood,H1
+Los Angeles,91609,6037,North hollywood,H1
+Los Angeles,93543,6037,Littlerock,H1
+Los Angeles,91361,6037,Westlake village,H1
+Los Angeles,91381,6037,Stevenson ranch,H1
+Los Angeles,91390,6037,Santa clarita,H1
+Los Angeles,91403,6037,Sherman oaks,H1
+Los Angeles,91352,6037,Sun valley,H1
+Los Angeles,91364,6037,Woodland hills,H1
+Los Angeles,91423,6037,Sherman oaks,H1
+Los Angeles,91501,6037,Burbank,H1
+Los Angeles,90650,6037,Norwalk,H1
+Los Angeles,90609,6037,Whittier,H1
+Los Angeles,91740,6037,Glendora,H1
+Los Angeles,91745,6037,Hacienda heights,H1
+Los Angeles,91709,6037,Chino hills,H1
+Los Angeles,91731,6037,El monte,H1
+Los Angeles,91767,6037,Pomona,H1
+Los Angeles,91793,6037,West covina,H1
+Los Angeles,90714,6037,Lakewood,H1
+Los Angeles,91043,6037,Tujunga,H1
+Los Angeles,91117,6037,Pasadena,H1
+Los Angeles,93591,6037,Palmdale,H1
+Los Angeles,90711,6037,Lakewood,H1
+Los Angeles,90060,6037,Los angeles,H1
+Los Angeles,91341,6037,San fernando,H1
+Los Angeles,91346,6037,Mission hills,H1
+Los Angeles,91610,6037,Toluca lake,H1
+Los Angeles,93586,6037,Lancaster,H1
+Los Angeles,91305,6037,Canoga park,H1
+Los Angeles,91222,6037,Glendale,H1
+Los Angeles,91199,6037,Pasadena,H1
+Los Angeles,91496,6037,Van nuys,H1
+Los Angeles,91612,6037,North hollywood,H1
+Los Angeles,91523,6037,Burbank,H1
+Los Angeles,91482,6037,Van nuys,H1
+Los Angeles,90661,6037,Pico rivera,H1
+Los Angeles,91371,6037,Woodland hills,H1
+Los Angeles,91185,6037,Pasadena,H1
+Los Angeles,90022,6037,Los angeles,H1
+Los Angeles,90014,6037,Los angeles,H1
+Los Angeles,90230,6037,Culver city,H1
+Los Angeles,90239,6037,Downey,H1
+Los Angeles,90247,6037,Gardena,H1
+Los Angeles,90241,6037,Downey,H1
+Los Angeles,90248,6037,Gardena,H1
+Los Angeles,90213,6037,Beverly hills,H1
+Los Angeles,90304,6037,Inglewood,H1
+Los Angeles,90274,6037,Palos verdes peninsula,H1
+Los Angeles,90290,6037,Topanga,H1
+Los Angeles,90405,6037,Santa monica,H1
+Los Angeles,90732,6037,San pedro,H1
+Los Angeles,90713,6037,Lakewood,H1
+Los Angeles,90715,6037,Lakewood,H1
+Los Angeles,90804,6037,Long beach,H1
+Los Angeles,90702,6037,Artesia,H1
+Los Angeles,90047,6037,Los angeles,H1
+Los Angeles,90064,6037,Los angeles,H1
+Los Angeles,90063,6037,Los angeles,H1
+Los Angeles,91006,6037,Arcadia,H1
+Los Angeles,90810,6037,Long beach,H1
+Los Angeles,91001,6037,Altadena,H1
+Los Angeles,91204,6037,Glendale,H1
+Los Angeles,91115,6037,Pasadena,H1
+Los Angeles,91108,6037,San marino,H1
+Los Angeles,90002,6037,Los angeles,H1
+Los Angeles,91206,6037,Glendale,H1
+Los Angeles,91340,6037,San fernando,H1
+Los Angeles,91342,6037,Sylmar,H1
+Los Angeles,91208,6037,Glendale,H1
+Los Angeles,91344,6037,Granada hills,H1
+Los Angeles,91334,6037,Pacoima,H1
+Los Angeles,91617,6037,Valley village,H1
+Los Angeles,93532,6037,Lake hughes,H1
+Los Angeles,91351,6037,Canyon country,H1
+Los Angeles,91436,6037,Encino,H1
+Los Angeles,91502,6037,Burbank,H1
+Los Angeles,90640,6037,Montebello,H1
+Los Angeles,91733,6037,South el monte,H1
+Los Angeles,91710,6037,Chino,H1
+Los Angeles,91748,6037,Rowland heights,H1
+Los Angeles,90009,6037,Los angeles,H1
+Los Angeles,90202,6037,Bell,H1
+Los Angeles,91372,6037,Calabasas,H1
+Los Angeles,91102,6037,Pasadena,H1
+Los Angeles,91118,6037,San marino,H1
+Los Angeles,91508,6037,Burbank,H1
+Los Angeles,91769,6037,Pomona,H1
+Los Angeles,90095,6037,Los angeles,H1
+Los Angeles,90607,6037,Whittier,H1
+Los Angeles,90070,6037,Los angeles,H1
+Los Angeles,90251,6037,Hawthorne,H1
+Los Angeles,93563,6037,Valyermo,H1
+Los Angeles,91046,6037,Verdugo city,H1
+Los Angeles,90074,6037,Los angeles,H1
+Los Angeles,90899,6037,Long beach,H1
+Los Angeles,90639,6037,La mirada,H1
+Los Angeles,90833,6037,Long beach,H1
+Los Angeles,90671,6037,Santa fe springs,H1
+Los Angeles,90016,6037,Los angeles,H1
+Los Angeles,90018,6037,Los angeles,H1
+Los Angeles,90020,6037,Los angeles,H1
+Los Angeles,90007,6037,Los angeles,H1
+Los Angeles,90220,6037,Compton,H1
+Los Angeles,90069,6037,West hollywood,H1
+Los Angeles,90303,6037,Inglewood,H1
+Los Angeles,90501,6037,Torrance,H1
+Los Angeles,90295,6037,Marina del rey,H1
+Los Angeles,90504,6037,Torrance,H1
+Los Angeles,90042,6037,Los angeles,H1
+Los Angeles,90034,6037,Los angeles,H1
+Los Angeles,90815,6037,Long beach,H1
+Los Angeles,90853,6037,Long beach,H1
+Los Angeles,91024,6037,Sierra madre,H1
+Los Angeles,91042,6037,Tujunga,H1
+Los Angeles,91203,6037,Glendale,H1
+Los Angeles,90003,6037,Los angeles,H1
+Los Angeles,91306,6037,Winnetka,H1
+Los Angeles,91302,6037,Calabasas,H1
+Los Angeles,91330,6037,Northridge,H1
+Los Angeles,91506,6037,Burbank,H1
+Los Angeles,91608,6037,Universal city,H1
+Los Angeles,93535,6037,Lancaster,H1
+Los Angeles,91367,6037,Woodland hills,H1
+Los Angeles,91355,6037,Valencia,H1
+Los Angeles,90602,6037,Whittier,H1
+Los Angeles,91722,6037,Covina,H1
+Los Angeles,91744,6037,La puente,H1
+Los Angeles,91702,6037,Azusa,H1
+Los Angeles,91747,6037,La puente,H1
+Los Angeles,91746,6037,La puente,H1
+Los Angeles,91754,6037,Monterey park,H1
+Los Angeles,91768,6037,Pomona,H1
+Los Angeles,91765,6037,Diamond bar,H1
+Los Angeles,90309,6037,Inglewood,H1
+Los Angeles,91209,6037,Glendale,H1
+Los Angeles,91510,6037,Burbank,H1
+Los Angeles,90637,6037,La mirada,H1
+Los Angeles,91802,6037,Alhambra,H1
+Los Angeles,91416,6037,Encino,H1
+Los Angeles,90086,6037,Los angeles,H1
+Los Angeles,90093,6037,Los angeles,H1
+Los Angeles,90308,6037,Inglewood,H1
+Los Angeles,91426,6037,Encino,H1
+Los Angeles,91353,6037,Sun valley,H1
+Los Angeles,91771,6037,Rosemead,H1
+Los Angeles,90054,6037,Los angeles,H1
+Los Angeles,91404,6037,Van nuys,H1
+Los Angeles,91394,6037,Granada hills,H1
+Los Angeles,91188,6037,Pasadena,H1
+Los Angeles,91716,6037,City of industry,H1
+Los Angeles,90846,6037,Long beach,H1
+Los Angeles,91382,6037,Santa clarita,H1
+Los Angeles,90011,6037,Los angeles,H1
+Los Angeles,90004,6037,Los angeles,H1
+Los Angeles,90008,6037,Los angeles,H1
+Los Angeles,90026,6037,Los angeles,H1
+Los Angeles,90028,6037,Los angeles,H1
+Los Angeles,90068,6037,Los angeles,H1
+Los Angeles,90260,6037,Lawndale,H1
+Los Angeles,90211,6037,Beverly hills,H1
+Los Angeles,90075,6037,Los angeles,H1
+Los Angeles,90278,6037,Redondo beach,H1
+Los Angeles,90301,6037,Inglewood,H1
+Los Angeles,90302,6037,Inglewood,H1
+Los Angeles,90294,6037,Venice,H1
+Los Angeles,90291,6037,Venice,H1
+Los Angeles,90404,6037,Santa monica,H1
+Los Angeles,90744,6037,Wilmington,H1
+Los Angeles,90746,6037,Carson,H1
+Los Angeles,90510,6037,Torrance,H1
+Los Angeles,90805,6037,Long beach,H1
+Los Angeles,90703,6037,Cerritos,H1
+Los Angeles,90041,6037,Los angeles,H1
+Los Angeles,90046,6037,Los angeles,H1
+Los Angeles,90035,6037,Los angeles,H1
+Los Angeles,91103,6037,Pasadena,H1
+Los Angeles,90813,6037,Long beach,H1
+Los Angeles,90814,6037,Long beach,H1
+Los Angeles,91107,6037,Pasadena,H1
+Los Angeles,91114,6037,Pasadena,H1
+Los Angeles,91106,6037,Pasadena,H1
+Los Angeles,90001,6037,Los angeles,H1
+Los Angeles,91205,6037,Glendale,H1
+Los Angeles,91335,6037,Reseda,H1
+Los Angeles,91602,6037,North hollywood,H1
+Los Angeles,93063,6037,Simi valley,H1
+Los Angeles,93536,6037,Lancaster,H1
+Los Angeles,93539,6037,Lancaster,H1
+Los Angeles,91362,6037,Thousand oaks,H1
+Los Angeles,91401,6037,Van nuys,H1
+Los Angeles,91376,6037,Agoura hills,H1
+Los Angeles,91392,6037,Sylmar,H1
+Los Angeles,92397,6037,Wrightwood,H1
+Los Angeles,90631,6037,La habra,H1
+Los Angeles,90601,6037,Whittier,H1
+Los Angeles,91732,6037,El monte,H1
+Los Angeles,91786,6037,Upland,H1
+Los Angeles,90083,6037,Los angeles,H1
+Los Angeles,90508,6037,Torrance,H1
+Los Angeles,90053,6037,Los angeles,H1
+Los Angeles,91012,6037,La canada flintridge,H1
+Los Angeles,91396,6037,Winnetka,H1
+Los Angeles,91031,6037,South pasadena,H1
+Los Angeles,91109,6037,Pasadena,H1
+Los Angeles,93590,6037,Palmdale,H1
+Los Angeles,90608,6037,Whittier,H1
+Los Angeles,91788,6037,Walnut,H1
+Los Angeles,90264,6037,Malibu,H1
+Los Angeles,90261,6037,Lawndale,H1
+Los Angeles,90296,6037,Playa del rey,H1
+Los Angeles,91041,6037,Sunland,H1
+Los Angeles,91615,6037,North hollywood,H1
+Los Angeles,91393,6037,North hills,H1
+Los Angeles,90831,6037,Long beach,H1
+Los Angeles,91023,6037,Mount wilson,H1
+Los Angeles,90076,6037,Los angeles,H1
+Los Angeles,91224,6037,La crescenta,H1
+Los Angeles,91009,6037,Duarte,H1
+Los Angeles,91507,6037,Burbank,H1
+Los Angeles,91395,6037,Mission hills,H1
+Los Angeles,90223,6037,Compton,H1
+Los Angeles,90307,6037,Inglewood,H1
+Los Angeles,93599,6037,Palmdale,H1
+Los Angeles,90895,6037,Carson,H1
+Los Angeles,90073,6037,Los angeles,H1
+Los Angeles,91124,6037,Pasadena,H1
+Los Angeles,91125,6037,Pasadena,H1
+Los Angeles,91499,6037,Van nuys,H1
+Los Angeles,90263,6037,Malibu,H1
+Los Angeles,91470,6037,Van nuys,H1
+Los Angeles,90610,6037,Whittier,H1
+Los Angeles,90015,6037,Los angeles,H1
+Los Angeles,90027,6037,Los angeles,H1
+Los Angeles,90025,6037,Los angeles,H1
+Los Angeles,90242,6037,Downey,H1
+Los Angeles,90255,6037,Huntington park,H1
+Los Angeles,90082,6037,Los angeles,H1
+Los Angeles,90224,6037,Compton,H1
+Los Angeles,90209,6037,Beverly hills,H1
+Los Angeles,90072,6037,Los angeles,H1
+Los Angeles,90293,6037,Playa del rey,H1
+Los Angeles,90402,6037,Santa monica,H1
+Los Angeles,90280,6037,South gate,H1
+Los Angeles,90502,6037,Torrance,H1
+Los Angeles,90731,6037,San pedro,H1
+Los Angeles,90802,6037,Long beach,H1
+Los Angeles,90706,6037,Bellflower,H1
+Los Angeles,90803,6037,Long beach,H1
+Los Angeles,90707,6037,Bellflower,H1
+Los Angeles,90029,6037,Los angeles,H1
+Los Angeles,90048,6037,Los angeles,H1
+Los Angeles,90031,6037,Los angeles,H1
+Los Angeles,90057,6037,Los angeles,H1
+Los Angeles,90055,6037,Los angeles,H1
+Los Angeles,91010,6037,Duarte,H1
+Los Angeles,91017,6037,Monrovia,H1
+Los Angeles,91104,6037,Pasadena,H1
+Los Angeles,91303,6037,Canoga park,H1
+Los Angeles,91321,6037,Newhall,H1
+Los Angeles,91325,6037,Northridge,H1
+Los Angeles,91214,6037,La crescenta,H1
+Los Angeles,91337,6037,Reseda,H1
+Los Angeles,91505,6037,Burbank,H1
+Los Angeles,93544,6037,Llano,H1
+Los Angeles,91380,6037,Santa clarita,H1
+Los Angeles,91402,6037,Panorama city,H1
+Los Angeles,91354,6037,Valencia,H1
+Los Angeles,91356,6037,Tarzana,H1
+Los Angeles,91411,6037,Van nuys,H1
+Los Angeles,90623,6037,La palma,H1
+Los Angeles,91775,6037,San gabriel,H1
+Los Angeles,91789,6037,Walnut,H1
+Los Angeles,91776,6037,San gabriel,H1
+Los Angeles,91766,6037,Pomona,H1
+Los Angeles,90087,6037,Los angeles,H1
+Los Angeles,90078,6037,Los angeles,H1
+Los Angeles,90050,6037,Los angeles,H1
+Los Angeles,91309,6037,Canoga park,H1
+Los Angeles,90801,6037,Long beach,H1
+Los Angeles,91365,6037,Woodland hills,H1
+Los Angeles,91357,6037,Tarzana,H1
+Los Angeles,91116,6037,Pasadena,H1
+Los Angeles,90099,6037,Los angeles,H1
+Los Angeles,90081,6037,Los angeles,H1
+Los Angeles,91611,6037,North hollywood,H1
+Los Angeles,91184,6037,Pasadena,H1
+Los Angeles,91121,6037,Pasadena,H1
+Los Angeles,91521,6037,Burbank,H1
+Los Angeles,91189,6037,Pasadena,H1
+Los Angeles,90509,6037,Torrance,H1
+Los Angeles,91756,6037,Monterey park,H1
+Los Angeles,91182,6037,Pasadena,H1
+Los Angeles,90844,6037,Long beach,H1
+Los Angeles,90006,6037,Los angeles,H1
+Los Angeles,90221,6037,Compton,H1
+Los Angeles,90250,6037,Hawthorne,H1
+Los Angeles,90222,6037,Compton,H1
+Los Angeles,90077,6037,Los angeles,H1
+Los Angeles,90079,6037,Los angeles,H1
+Los Angeles,90094,6037,Playa vista,H1
+Los Angeles,90212,6037,Beverly hills,H1
+Los Angeles,90089,6037,Los angeles,H1
+Los Angeles,90270,6037,Maywood,H1
+Los Angeles,90272,6037,Pacific palisades,H1
+Los Angeles,90277,6037,Redondo beach,H1
+Los Angeles,90292,6037,Marina del rey,H1
+Los Angeles,90403,6037,Santa monica,H1
+Los Angeles,90712,6037,Lakewood,H1
+Los Angeles,90717,6037,Lomita,H1
+Los Angeles,90037,6037,Los angeles,H1
+Los Angeles,90044,6037,Los angeles,H1
+Los Angeles,90045,6037,Los angeles,H1
+Los Angeles,90062,6037,Los angeles,H1
+Los Angeles,90056,6037,Los angeles,H1
+Los Angeles,91007,6037,Arcadia,H1
+Los Angeles,90807,6037,Long beach,H1
+Los Angeles,90808,6037,Long beach,H1
+Los Angeles,91011,6037,La canada flintridge,H1
+Los Angeles,91311,6037,Chatsworth,H1
+Los Angeles,91324,6037,Northridge,H1
+Los Angeles,91326,6037,Porter ranch,H1
+Los Angeles,91316,6037,Encino,H1
+Los Angeles,91331,6037,Pacoima,H1
+Los Angeles,91607,6037,Valley village,H1
+Los Angeles,93510,6037,Acton,H1
+Los Angeles,93551,6037,Palmdale,H1
+Los Angeles,91413,6037,Sherman oaks,H1
+Los Angeles,91406,6037,Van nuys,H1
+Los Angeles,91409,6037,Van nuys,H1
+Los Angeles,90603,6037,Whittier,H1
+Los Angeles,90630,6037,Cypress,H1
+Los Angeles,90652,6037,Norwalk,H1
+Los Angeles,91741,6037,Glendora,H1
+Los Angeles,91706,6037,Baldwin park,H1
+Los Angeles,91724,6037,Covina,H1
+Los Angeles,91715,6037,City of industry,H1
+Los Angeles,91792,6037,West covina,H1
+Los Angeles,91803,6037,Alhambra,H1
+Los Angeles,90733,6037,San pedro,H1
+Los Angeles,91333,6037,Pacoima,H1
+Los Angeles,91313,6037,Chatsworth,H1
+Los Angeles,91221,6037,Glendale,H1
+Los Angeles,91408,6037,Van nuys,H1
+Los Angeles,91308,6037,West hills,H1
+Los Angeles,90406,6037,Santa monica,H1
+Los Angeles,90809,6037,Long beach,H1
+Los Angeles,91412,6037,Panorama city,H1
+Los Angeles,90832,6037,Long beach,H1
+Los Angeles,91225,6037,Glendale,H1
+Los Angeles,91077,6037,Arcadia,H1
+Los Angeles,91126,6037,Pasadena,H1
+Los Angeles,90030,6037,Los angeles,H1
+Los Angeles,91383,6037,Santa clarita,H1
+Los Angeles,90747,6037,Carson,H1
+Los Angeles,90704,6037,Avalon,H1
+Los Angeles,91896,6037,Alhambra,H1
+Los Angeles,90090,6037,Dodgertown,H1
+Madera,93639,6039,Madera,H1
+Madera,93720,6039,Fresno,H1
+Madera,93669,6039,Wishon,H1
+Madera,93626,6039,Friant,H1
+Madera,93620,6039,Dos palos,H1
+Madera,93645,6039,O neals,H1
+Madera,93630,6039,Kerman,H1
+Madera,93637,6039,Madera,H1
+Madera,93644,6039,Oakhurst,H1
+Madera,93614,6039,Coarsegold,H1
+Madera,93602,6039,Auberry,H1
+Madera,93622,6039,Firebaugh,H1
+Madera,93636,6039,Madera,H1
+Madera,93643,6039,North fork,H1
+Madera,93604,6039,Bass lake,H1
+Madera,93601,6039,Ahwahnee,H1
+Madera,93610,6039,Chowchilla,H1
+Madera,93638,6039,Madera,H1
+Madera,93653,6039,Raymond,H1
+Marin,94979,6041,San anselmo,H1
+Marin,94924,6041,Bolinas,H1
+Marin,94963,6041,San geronimo,H1
+Marin,94929,6041,Dillon beach,H1
+Marin,94964,6041,San quentin,H1
+Marin,94950,6041,Olema,H1
+Marin,94912,6041,San rafael,H1
+Marin,94938,6041,Lagunitas,H1
+Marin,94978,6041,Fairfax,H1
+Marin,94913,6041,San rafael,H1
+Marin,94901,6041,San rafael,H1
+Marin,94925,6041,Corte madera,H1
+Marin,94930,6041,Fairfax,H1
+Marin,94947,6041,Novato,H1
+Marin,94965,6041,Sausalito,H1
+Marin,94973,6041,Woodacre,H1
+Marin,94948,6041,Novato,H1
+Marin,94970,6041,Stinson beach,H1
+Marin,94949,6041,Novato,H1
+Marin,94966,6041,Sausalito,H1
+Marin,94933,6041,Forest knolls,H1
+Marin,94940,6041,Marshall,H1
+Marin,94952,6041,Petaluma,H1
+Marin,94915,6041,San rafael,H1
+Marin,94942,6041,Mill valley,H1
+Marin,94976,6041,Corte madera,H1
+Marin,94974,6041,San quentin,H1
+Marin,94904,6041,Greenbrae,H1
+Marin,94939,6041,Larkspur,H1
+Marin,94945,6041,Novato,H1
+Marin,94960,6041,San anselmo,H1
+Marin,94957,6041,Ross,H1
+Marin,94977,6041,Larkspur,H1
+Marin,94903,6041,San rafael,H1
+Marin,94920,6041,Belvedere tiburon,H1
+Marin,94941,6041,Mill valley,H1
+Marin,94956,6041,Point reyes station,H1
+Marin,94937,6041,Inverness,H1
+Marin,94971,6041,Tomales,H1
+Marin,94946,6041,Nicasio,H1
+Marin,94914,6041,Kentfield,H1
+Mariposa,95369,6043,Snelling,H1
+Mariposa,95311,6043,Coulterville,H1
+Mariposa,95345,6043,Midpines,H1
+Mariposa,95306,6043,Catheys valley,H1
+Mariposa,95338,6043,Mariposa,H1
+Mariposa,93623,6043,Fish camp,H1
+Mariposa,95321,6043,Groveland,H1
+Mariposa,95389,6043,Yosemite national park,H1
+Mariposa,95325,6043,Hornitos,H1
+Mariposa,95329,6043,La grange,H1
+Mariposa,95318,6043,El portal,H1
+Mariposa,93601,6043,Ahwahnee,H1
+Mariposa,93653,6043,Raymond,H1
+Mendocino,95490,6045,Willits,H1
+Mendocino,95410,6045,Albion,H1
+Mendocino,95460,6045,Mendocino,H1
+Mendocino,95429,6045,Dos rios,H1
+Mendocino,95418,6045,Calpella,H1
+Mendocino,95449,6045,Hopland,H1
+Mendocino,95459,6045,Manchester,H1
+Mendocino,95494,6045,Yorkville,H1
+Mendocino,95428,6045,Covelo,H1
+Mendocino,95420,6045,Caspar,H1
+Mendocino,95432,6045,Elk,H1
+Mendocino,95589,6045,Whitethorn,H1
+Mendocino,95468,6045,Point arena,H1
+Mendocino,95542,6045,Garberville,H1
+Mendocino,95437,6045,Fort bragg,H1
+Mendocino,95481,6045,Talmage,H1
+Mendocino,95463,6045,Navarro,H1
+Mendocino,95482,6045,Ukiah,H1
+Mendocino,95454,6045,Laytonville,H1
+Mendocino,95427,6045,Comptche,H1
+Mendocino,95470,6045,Redwood valley,H1
+Mendocino,95456,6045,Little river,H1
+Mendocino,95585,6045,Leggett,H1
+Mendocino,95445,6045,Gualala,H1
+Mendocino,95417,6045,Branscomb,H1
+Mendocino,95587,6045,Piercy,H1
+Mendocino,95488,6045,Westport,H1
+Mendocino,95466,6045,Philo,H1
+Mendocino,95415,6045,Boonville,H1
+Mendocino,95469,6045,Potter valley,H1
+Merced,95340,6047,Merced,H1
+Merced,95348,6047,Merced,H1
+Merced,95369,6047,Snelling,H1
+Merced,95374,6047,Stevinson,H1
+Merced,95333,6047,Le grand,H1
+Merced,95360,6047,Newman,H1
+Merced,95312,6047,Cressey,H1
+Merced,93620,6047,Dos palos,H1
+Merced,95388,6047,Winton,H1
+Merced,95315,6047,Delhi,H1
+Merced,95341,6047,Merced,H1
+Merced,95316,6047,Denair,H1
+Merced,95344,6047,Merced,H1
+Merced,95343,6047,Merced,H1
+Merced,93635,6047,Los banos,H1
+Merced,95322,6047,Gustine,H1
+Merced,95324,6047,Hilmar,H1
+Merced,95334,6047,Livingston,H1
+Merced,95303,6047,Ballico,H1
+Merced,95380,6047,Turlock,H1
+Merced,95301,6047,Atwater,H1
+Merced,95317,6047,El nido,H1
+Merced,93661,6047,Santa rita park,H1
+Merced,93622,6047,Firebaugh,H1
+Merced,93610,6047,Chowchilla,H1
+Merced,95365,6047,Planada,H1
+Merced,93665,6047,South dos palos,H1
+Modoc,96134,6049,Tulelake,H1
+Modoc,96104,6049,Cedarville,H1
+Modoc,96112,6049,Fort bidwell,H1
+Modoc,96006,6049,Adin,H1
+Modoc,96115,6049,Lake city,H1
+Modoc,96101,6049,Alturas,H1
+Modoc,96015,6049,Canby,H1
+Modoc,96054,6049,Lookout,H1
+Modoc,96116,6049,Likely,H1
+Modoc,96056,6049,Mcarthur,H1
+Modoc,96108,6049,Davis creek,H1
+Modoc,96110,6049,Eagleville,H1
+Mono,93546,6051,Mammoth lakes,H1
+Mono,93529,6051,June lake,H1
+Mono,93512,6051,Benton,H1
+Mono,93517,6051,Bridgeport,H1
+Mono,96107,6051,Coleville,H1
+Mono,93541,6051,Lee vining,H1
+Mono,93514,6051,Bishop,H1
+Mono,96133,6051,Topaz,H1
+Monterey,93426,6053,Bradley,H1
+Monterey,93923,6053,Carmel,H1
+Monterey,93960,6053,Soledad,H1
+Monterey,95004,6053,Aromas,H1
+Monterey,93922,6053,Carmel,H1
+Monterey,93921,6053,Carmel by the sea,H1
+Monterey,93450,6053,San ardo,H1
+Monterey,93933,6053,Marina,H1
+Monterey,93924,6053,Carmel valley,H1
+Monterey,93902,6053,Salinas,H1
+Monterey,93942,6053,Monterey,H1
+Monterey,93943,6053,Monterey,H1
+Monterey,93925,6053,Chualar,H1
+Monterey,93915,6053,Salinas,H1
+Monterey,93940,6053,Monterey,H1
+Monterey,93927,6053,Greenfield,H1
+Monterey,93955,6053,Seaside,H1
+Monterey,95076,6053,Watsonville,H1
+Monterey,93944,6053,Monterey,H1
+Monterey,93930,6053,King city,H1
+Monterey,93950,6053,Pacific grove,H1
+Monterey,93451,6053,San miguel,H1
+Monterey,93908,6053,Salinas,H1
+Monterey,93906,6053,Salinas,H1
+Monterey,93928,6053,Jolon,H1
+Monterey,93901,6053,Salinas,H1
+Monterey,93905,6053,Salinas,H1
+Monterey,93926,6053,Gonzales,H1
+Monterey,93954,6053,San lucas,H1
+Monterey,93210,6053,Coalinga,H1
+Monterey,93907,6053,Salinas,H1
+Monterey,93912,6053,Salinas,H1
+Monterey,93953,6053,Pebble beach,H1
+Monterey,95012,6053,Castroville,H1
+Monterey,93920,6053,Big sur,H1
+Monterey,95039,6053,Moss landing,H1
+Monterey,93962,6053,Spreckels,H1
+Monterey,93932,6053,Lockwood,H1
+Napa,94574,6055,Saint helena,H1
+Napa,94515,6055,Calistoga,H1
+Napa,94581,6055,Napa,H1
+Napa,94599,6055,Yountville,H1
+Napa,94508,6055,Angwin,H1
+Napa,94558,6055,Napa,H1
+Napa,94503,6055,American canyon,H1
+Napa,94576,6055,Deer park,H1
+Napa,94567,6055,Pope valley,H1
+Napa,94573,6055,Rutherford,H1
+Napa,95476,6055,Sonoma,H1
+Napa,95461,6055,Middletown,H1
+Napa,94559,6055,Napa,H1
+Napa,94591,6055,Vallejo,H1
+Napa,94534,6055,Fairfield,H1
+Napa,94562,6055,Oakville,H1
+Nevada,96162,6057,Truckee,H1
+Nevada,95946,6057,Penn valley,H1
+Nevada,95977,6057,Smartsville,H1
+Nevada,95924,6057,Cedar ridge,H1
+Nevada,95728,6057,Soda springs,H1
+Nevada,95602,6057,Auburn,H1
+Nevada,95986,6057,Washington,H1
+Nevada,95712,6057,Chicago park,H1
+Nevada,96161,6057,Truckee,H1
+Nevada,95949,6057,Grass valley,H1
+Nevada,95975,6057,Rough and ready,H1
+Nevada,96160,6057,Truckee,H1
+Nevada,96111,6057,Floriston,H1
+Nevada,95945,6057,Grass valley,H1
+Nevada,95960,6057,North san juan,H1
+Nevada,95959,6057,Nevada city,H1
+Orange,90638,6059,La mirada,H1
+Orange,90680,6059,Stanton,H1
+Orange,92623,6059,Irvine,H1
+Orange,92675,6059,San juan capistrano,H1
+Orange,92662,6059,Newport beach,H1
+Orange,92693,6059,San juan capistrano,H1
+Orange,92694,6059,Ladera ranch,H1
+Orange,92825,6059,Anaheim,H1
+Orange,92870,6059,Placentia,H1
+Orange,92811,6059,Atwood,H1
+Orange,92616,6059,Irvine,H1
+Orange,92702,6059,Santa ana,H1
+Orange,92602,6059,Irvine,H1
+Orange,92617,6059,Irvine,H1
+Orange,92627,6059,Costa mesa,H1
+Orange,92651,6059,Laguna beach,H1
+Orange,92661,6059,Newport beach,H1
+Orange,92637,6059,Laguna woods,H1
+Orange,92688,6059,Rancho santa margarita,H1
+Orange,92654,6059,Laguna hills,H1
+Orange,92782,6059,Tustin,H1
+Orange,92861,6059,Villa park,H1
+Orange,92867,6059,Orange,H1
+Orange,92886,6059,Yorba linda,H1
+Orange,92655,6059,Midway city,H1
+Orange,92678,6059,Trabuco canyon,H1
+Orange,90720,6059,Los alamitos,H1
+Orange,90622,6059,Buena park,H1
+Orange,92609,6059,El toro,H1
+Orange,92672,6059,San clemente,H1
+Orange,92630,6059,Lake forest,H1
+Orange,92648,6059,Huntington beach,H1
+Orange,92692,6059,Mission viejo,H1
+Orange,92701,6059,Santa ana,H1
+Orange,92801,6059,Anaheim,H1
+Orange,92804,6059,Anaheim,H1
+Orange,92808,6059,Anaheim,H1
+Orange,92821,6059,Brea,H1
+Orange,92831,6059,Fullerton,H1
+Orange,92840,6059,Garden grove,H1
+Orange,92803,6059,Anaheim,H1
+Orange,92868,6059,Orange,H1
+Orange,92822,6059,Brea,H1
+Orange,92863,6059,Orange,H1
+Orange,90721,6059,Los alamitos,H1
+Orange,92846,6059,Garden grove,H1
+Orange,92698,6059,Aliso viejo,H1
+Orange,92864,6059,Orange,H1
+Orange,90624,6059,Buena park,H1
+Orange,90740,6059,Seal beach,H1
+Orange,90621,6059,Buena park,H1
+Orange,90620,6059,Buena park,H1
+Orange,92603,6059,Irvine,H1
+Orange,92649,6059,Huntington beach,H1
+Orange,92663,6059,Newport beach,H1
+Orange,92657,6059,Newport coast,H1
+Orange,92677,6059,Laguna niguel,H1
+Orange,92691,6059,Mission viejo,H1
+Orange,92780,6059,Tustin,H1
+Orange,92805,6059,Anaheim,H1
+Orange,92807,6059,Anaheim,H1
+Orange,92704,6059,Santa ana,H1
+Orange,92706,6059,Santa ana,H1
+Orange,92806,6059,Anaheim,H1
+Orange,92841,6059,Garden grove,H1
+Orange,92843,6059,Garden grove,H1
+Orange,92711,6059,Santa ana,H1
+Orange,92815,6059,Anaheim,H1
+Orange,92869,6059,Orange,H1
+Orange,90633,6059,La habra,H1
+Orange,90742,6059,Sunset beach,H1
+Orange,92857,6059,Orange,H1
+Orange,90743,6059,Surfside,H1
+Orange,90815,6059,Long beach,H1
+Orange,92604,6059,Irvine,H1
+Orange,92612,6059,Irvine,H1
+Orange,92618,6059,Irvine,H1
+Orange,92620,6059,Irvine,H1
+Orange,92625,6059,Corona del mar,H1
+Orange,92614,6059,Irvine,H1
+Orange,92629,6059,Dana point,H1
+Orange,92697,6059,Irvine,H1
+Orange,92802,6059,Anaheim,H1
+Orange,92823,6059,Brea,H1
+Orange,92844,6059,Garden grove,H1
+Orange,92866,6059,Orange,H1
+Orange,92619,6059,Irvine,H1
+Orange,92676,6059,Silverado,H1
+Orange,92684,6059,Westminster,H1
+Orange,92871,6059,Placentia,H1
+Orange,92816,6059,Anaheim,H1
+Orange,90631,6059,La habra,H1
+Orange,92610,6059,Foothill ranch,H1
+Orange,92626,6059,Costa mesa,H1
+Orange,92624,6059,Capistrano beach,H1
+Orange,92647,6059,Huntington beach,H1
+Orange,92673,6059,San clemente,H1
+Orange,92685,6059,Westminster,H1
+Orange,92707,6059,Santa ana,H1
+Orange,92708,6059,Fountain valley,H1
+Orange,92781,6059,Tustin,H1
+Orange,92812,6059,Anaheim,H1
+Orange,92865,6059,Orange,H1
+Orange,92887,6059,Yorba linda,H1
+Orange,92817,6059,Anaheim,H1
+Orange,92834,6059,Fullerton,H1
+Orange,92838,6059,Fullerton,H1
+Orange,92607,6059,Laguna niguel,H1
+Orange,92859,6059,Orange,H1
+Orange,90632,6059,La habra,H1
+Orange,92836,6059,Fullerton,H1
+Orange,90623,6059,La palma,H1
+Orange,92653,6059,Laguna hills,H1
+Orange,92646,6059,Huntington beach,H1
+Orange,92650,6059,East irvine,H1
+Orange,92679,6059,Trabuco canyon,H1
+Orange,92703,6059,Santa ana,H1
+Orange,92705,6059,Santa ana,H1
+Orange,92845,6059,Garden grove,H1
+Orange,92837,6059,Fullerton,H1
+Orange,92832,6059,Fullerton,H1
+Orange,92652,6059,Laguna beach,H1
+Orange,92799,6059,Santa ana,H1
+Orange,92728,6059,Fountain valley,H1
+Orange,92735,6059,Santa ana,H1
+Orange,92814,6059,Anaheim,H1
+Orange,92862,6059,Orange,H1
+Orange,90808,6059,Long beach,H1
+Orange,90630,6059,Cypress,H1
+Orange,92605,6059,Huntington beach,H1
+Orange,92606,6059,Irvine,H1
+Orange,92656,6059,Aliso viejo,H1
+Orange,92660,6059,Newport beach,H1
+Orange,92674,6059,San clemente,H1
+Orange,92683,6059,Westminster,H1
+Orange,92658,6059,Newport beach,H1
+Orange,92690,6059,Mission viejo,H1
+Orange,92628,6059,Costa mesa,H1
+Orange,92835,6059,Fullerton,H1
+Orange,92842,6059,Garden grove,H1
+Orange,92856,6059,Orange,H1
+Orange,92833,6059,Fullerton,H1
+Orange,92809,6059,Anaheim,H1
+Orange,92615,6059,Huntington beach,H1
+Orange,92659,6059,Newport beach,H1
+Orange,92885,6059,Yorba linda,H1
+Orange,92899,6059,Anaheim,H1
+Placer,95631,6061,Foresthill,H1
+Placer,95722,6061,Meadow vista,H1
+Placer,95650,6061,Loomis,H1
+Placer,95661,6061,Roseville,H1
+Placer,95765,6061,Rocklin,H1
+Placer,96146,6061,Olympic valley,H1
+Placer,96145,6061,Tahoe city,H1
+Placer,96148,6061,Tahoe vista,H1
+Placer,95701,6061,Alta,H1
+Placer,95703,6061,Applegate,H1
+Placer,96141,6061,Homewood,H1
+Placer,95602,6061,Auburn,H1
+Placer,95663,6061,Penryn,H1
+Placer,96143,6061,Kings beach,H1
+Placer,96161,6061,Truckee,H1
+Placer,95648,6061,Lincoln,H1
+Placer,95626,6061,Elverta,H1
+Placer,95658,6061,Newcastle,H1
+Placer,95746,6061,Granite bay,H1
+Placer,95747,6061,Roseville,H1
+Placer,95713,6061,Colfax,H1
+Placer,95714,6061,Dutch flat,H1
+Placer,95715,6061,Emigrant gap,H1
+Placer,95717,6061,Gold run,H1
+Placer,95681,6061,Sheridan,H1
+Placer,95610,6061,Citrus heights,H1
+Placer,95603,6061,Auburn,H1
+Placer,95604,6061,Auburn,H1
+Placer,95678,6061,Roseville,H1
+Placer,95677,6061,Rocklin,H1
+Placer,96142,6061,Tahoma,H1
+Placer,95668,6061,Pleasant grove,H1
+Placer,96140,6061,Carnelian bay,H1
+Placer,95736,6061,Weimar,H1
+Plumas,95983,6063,Taylorsville,H1
+Plumas,96105,6063,Chilcoot,H1
+Plumas,96122,6063,Portola,H1
+Plumas,95971,6063,Quincy,H1
+Plumas,96135,6063,Vinton,H1
+Plumas,95956,6063,Meadow valley,H1
+Plumas,95947,6063,Greenville,H1
+Plumas,95980,6063,Storrie,H1
+Plumas,95915,6063,Belden,H1
+Plumas,95981,6063,Strawberry valley,H1
+Plumas,95930,6063,Clipper mills,H1
+Plumas,95984,6063,Twain,H1
+Plumas,96020,6063,Chester,H1
+Plumas,96137,6063,Westwood,H1
+Plumas,96129,6063,Beckwourth,H1
+Plumas,95934,6063,Crescent mills,H1
+Plumas,96106,6063,Clio,H1
+Plumas,95923,6063,Canyon dam,H1
+Plumas,96103,6063,Blairsden graeagle,H1
+Riverside,92373,6065,Redlands,H1
+Riverside,92595,6065,Wildomar,H1
+Riverside,92518,6065,March air reserve base,H1
+Riverside,92530,6065,Lake elsinore,H1
+Riverside,92548,6065,Homeland,H1
+Riverside,92508,6065,Riverside,H1
+Riverside,92552,6065,Moreno valley,H1
+Riverside,92262,6065,Palm springs,H1
+Riverside,92522,6065,Riverside,H1
+Riverside,92220,6065,Banning,H1
+Riverside,92591,6065,Temecula,H1
+Riverside,92582,6065,San jacinto,H1
+Riverside,92531,6065,Lake elsinore,H1
+Riverside,92562,6065,Murrieta,H1
+Riverside,92551,6065,Moreno valley,H1
+Riverside,92581,6065,San jacinto,H1
+Riverside,92203,6065,Indio,H1
+Riverside,92211,6065,Palm desert,H1
+Riverside,92590,6065,Temecula,H1
+Riverside,92592,6065,Temecula,H1
+Riverside,92571,6065,Perris,H1
+Riverside,92507,6065,Riverside,H1
+Riverside,92532,6065,Lake elsinore,H1
+Riverside,92539,6065,Anza,H1
+Riverside,92563,6065,Murrieta,H1
+Riverside,92567,6065,Nuevo,H1
+Riverside,92240,6065,Desert hot springs,H1
+Riverside,92234,6065,Cathedral city,H1
+Riverside,92241,6065,Desert hot springs,H1
+Riverside,92883,6065,Corona,H1
+Riverside,92513,6065,Riverside,H1
+Riverside,92248,6065,La quinta,H1
+Riverside,92517,6065,Riverside,H1
+Riverside,92226,6065,Blythe,H1
+Riverside,92564,6065,Murrieta,H1
+Riverside,92399,6065,Yucaipa,H1
+Riverside,92596,6065,Winchester,H1
+Riverside,92586,6065,Menifee,H1
+Riverside,91708,6065,Chino,H1
+Riverside,92509,6065,Jurupa valley,H1
+Riverside,92519,6065,Riverside,H1
+Riverside,92505,6065,Riverside,H1
+Riverside,92553,6065,Moreno valley,H1
+Riverside,92253,6065,La quinta,H1
+Riverside,92236,6065,Coachella,H1
+Riverside,92282,6065,Whitewater,H1
+Riverside,92860,6065,Norco,H1
+Riverside,92882,6065,Corona,H1
+Riverside,92514,6065,Riverside,H1
+Riverside,92247,6065,La quinta,H1
+Riverside,92028,6065,Fallbrook,H1
+Riverside,92201,6065,Indio,H1
+Riverside,92585,6065,Menifee,H1
+Riverside,92593,6065,Temecula,H1
+Riverside,91752,6065,Mira loma,H1
+Riverside,92555,6065,Moreno valley,H1
+Riverside,92546,6065,Hemet,H1
+Riverside,92223,6065,Beaumont,H1
+Riverside,92254,6065,Mecca,H1
+Riverside,92230,6065,Cabazon,H1
+Riverside,92263,6065,Palm springs,H1
+Riverside,92255,6065,Palm desert,H1
+Riverside,92589,6065,Temecula,H1
+Riverside,92239,6065,Desert center,H1
+Riverside,92210,6065,Indian wells,H1
+Riverside,92320,6065,Calimesa,H1
+Riverside,92584,6065,Menifee,H1
+Riverside,92587,6065,Menifee,H1
+Riverside,92544,6065,Hemet,H1
+Riverside,92543,6065,Hemet,H1
+Riverside,92503,6065,Riverside,H1
+Riverside,92261,6065,Palm desert,H1
+Riverside,92274,6065,Thermal,H1
+Riverside,92202,6065,Indio,H1
+Riverside,92556,6065,Moreno valley,H1
+Riverside,92549,6065,Idyllwild,H1
+Riverside,92258,6065,North palm springs,H1
+Riverside,92521,6065,Riverside,H1
+Riverside,92599,6065,Perris,H1
+Riverside,92572,6065,Perris,H1
+Riverside,91762,6065,Ontario,H1
+Riverside,92506,6065,Riverside,H1
+Riverside,92504,6065,Riverside,H1
+Riverside,92545,6065,Hemet,H1
+Riverside,92536,6065,Aguanga,H1
+Riverside,92561,6065,Mountain center,H1
+Riverside,92260,6065,Palm desert,H1
+Riverside,92225,6065,Blythe,H1
+Riverside,92270,6065,Rancho mirage,H1
+Riverside,92878,6065,Corona,H1
+Riverside,92877,6065,Corona,H1
+Riverside,92502,6065,Riverside,H1
+Riverside,92324,6065,Colton,H1
+Riverside,92570,6065,Perris,H1
+Riverside,92583,6065,San jacinto,H1
+Riverside,92557,6065,Moreno valley,H1
+Riverside,92501,6065,Riverside,H1
+Riverside,92516,6065,Riverside,H1
+Riverside,92264,6065,Palm springs,H1
+Riverside,92235,6065,Cathedral city,H1
+Riverside,92276,6065,Thousand palms,H1
+Riverside,92879,6065,Corona,H1
+Riverside,92880,6065,Corona,H1
+Riverside,92881,6065,Corona,H1
+Sacramento,95630,6067,Folsom,H1
+Sacramento,95683,6067,Sloughhouse,H1
+Sacramento,95820,6067,Sacramento,H1
+Sacramento,95864,6067,Sacramento,H1
+Sacramento,95826,6067,Sacramento,H1
+Sacramento,95690,6067,Walnut grove,H1
+Sacramento,95661,6067,Roseville,H1
+Sacramento,95611,6067,Citrus heights,H1
+Sacramento,95812,6067,Sacramento,H1
+Sacramento,95823,6067,Sacramento,H1
+Sacramento,95835,6067,Sacramento,H1
+Sacramento,95671,6067,Represa,H1
+Sacramento,95662,6067,Orangevale,H1
+Sacramento,95814,6067,Sacramento,H1
+Sacramento,95818,6067,Sacramento,H1
+Sacramento,95838,6067,Sacramento,H1
+Sacramento,95831,6067,Sacramento,H1
+Sacramento,95833,6067,Sacramento,H1
+Sacramento,95759,6067,Elk grove,H1
+Sacramento,95853,6067,Sacramento,H1
+Sacramento,95628,6067,Fair oaks,H1
+Sacramento,95621,6067,Citrus heights,H1
+Sacramento,95741,6067,Rancho cordova,H1
+Sacramento,95819,6067,Sacramento,H1
+Sacramento,95830,6067,Sacramento,H1
+Sacramento,95840,6067,Sacramento,H1
+Sacramento,95626,6067,Elverta,H1
+Sacramento,95673,6067,Rio linda,H1
+Sacramento,95670,6067,Rancho cordova,H1
+Sacramento,95652,6067,Mcclellan,H1
+Sacramento,95660,6067,North highlands,H1
+Sacramento,95757,6067,Elk grove,H1
+Sacramento,95815,6067,Sacramento,H1
+Sacramento,95822,6067,Sacramento,H1
+Sacramento,95693,6067,Wilton,H1
+Sacramento,95828,6067,Sacramento,H1
+Sacramento,95834,6067,Sacramento,H1
+Sacramento,95860,6067,Sacramento,H1
+Sacramento,95842,6067,Sacramento,H1
+Sacramento,95813,6067,Sacramento,H1
+Sacramento,95867,6067,Sacramento,H1
+Sacramento,95836,6067,Sacramento,H1
+Sacramento,94571,6067,Rio vista,H1
+Sacramento,95624,6067,Elk grove,H1
+Sacramento,95632,6067,Galt,H1
+Sacramento,95825,6067,Sacramento,H1
+Sacramento,95821,6067,Sacramento,H1
+Sacramento,95841,6067,Sacramento,H1
+Sacramento,95827,6067,Sacramento,H1
+Sacramento,95843,6067,Antelope,H1
+Sacramento,95837,6067,Sacramento,H1
+Sacramento,95866,6067,Sacramento,H1
+Sacramento,95894,6067,Sacramento,H1
+Sacramento,95816,6067,Sacramento,H1
+Sacramento,95824,6067,Sacramento,H1
+Sacramento,95829,6067,Sacramento,H1
+Sacramento,95832,6067,Sacramento,H1
+Sacramento,95638,6067,Herald,H1
+Sacramento,95641,6067,Isleton,H1
+Sacramento,95851,6067,Sacramento,H1
+Sacramento,95615,6067,Courtland,H1
+Sacramento,95608,6067,Carmichael,H1
+Sacramento,95610,6067,Citrus heights,H1
+Sacramento,95609,6067,Carmichael,H1
+Sacramento,95655,6067,Mather,H1
+Sacramento,95758,6067,Elk grove,H1
+Sacramento,95811,6067,Sacramento,H1
+Sacramento,95678,6067,Roseville,H1
+Sacramento,95817,6067,Sacramento,H1
+Sacramento,95742,6067,Rancho cordova,H1
+Sacramento,95852,6067,Sacramento,H1
+Sacramento,95763,6067,Folsom,H1
+Sacramento,95865,6067,Sacramento,H1
+Sacramento,95639,6067,Hood,H1
+Sacramento,95680,6067,Ryde,H1
+San Benito,95004,6069,Aromas,H1
+San Benito,93925,6069,Chualar,H1
+San Benito,95043,6069,Paicines,H1
+San Benito,95024,6069,Hollister,H1
+San Benito,95075,6069,Tres pinos,H1
+San Benito,95045,6069,San juan bautista,H1
+San Benito,95023,6069,Hollister,H1
+San Bernardino,92344,6071,Hesperia,H1
+San Bernardino,92345,6071,Hesperia,H1
+San Bernardino,92373,6071,Redlands,H1
+San Bernardino,92356,6071,Lucerne valley,H1
+San Bernardino,92394,6071,Victorville,H1
+San Bernardino,92335,6071,Fontana,H1
+San Bernardino,92404,6071,San bernardino,H1
+San Bernardino,91730,6071,Rancho cucamonga,H1
+San Bernardino,91764,6071,Ontario,H1
+San Bernardino,92372,6071,Pinon hills,H1
+San Bernardino,91785,6071,Upland,H1
+San Bernardino,92305,6071,Angelus oaks,H1
+San Bernardino,92317,6071,Blue jay,H1
+San Bernardino,91759,6071,Mt baldy,H1
+San Bernardino,92352,6071,Lake arrowhead,H1
+San Bernardino,92402,6071,San bernardino,H1
+San Bernardino,91784,6071,Upland,H1
+San Bernardino,91763,6071,Montclair,H1
+San Bernardino,92423,6071,San bernardino,H1
+San Bernardino,92277,6071,Twentynine palms,H1
+San Bernardino,92284,6071,Yucca valley,H1
+San Bernardino,92285,6071,Landers,H1
+San Bernardino,92332,6071,Essex,H1
+San Bernardino,92366,6071,Mountain pass,H1
+San Bernardino,92312,6071,Barstow,H1
+San Bernardino,92369,6071,Patton,H1
+San Bernardino,92418,6071,San bernardino,H1
+San Bernardino,93555,6071,Ridgecrest,H1
+San Bernardino,92313,6071,Grand terrace,H1
+San Bernardino,92316,6071,Bloomington,H1
+San Bernardino,92365,6071,Newberry springs,H1
+San Bernardino,92368,6071,Oro grande,H1
+San Bernardino,92342,6071,Helendale,H1
+San Bernardino,92406,6071,San bernardino,H1
+San Bernardino,91709,6071,Chino hills,H1
+San Bernardino,92364,6071,Nipton,H1
+San Bernardino,92340,6071,Hesperia,H1
+San Bernardino,92315,6071,Big bear lake,H1
+San Bernardino,92393,6071,Victorville,H1
+San Bernardino,92382,6071,Running springs,H1
+San Bernardino,92304,6071,Amboy,H1
+San Bernardino,92403,6071,San bernardino,H1
+San Bernardino,92318,6071,Bryn mawr,H1
+San Bernardino,92399,6071,Yucaipa,H1
+San Bernardino,91710,6071,Chino,H1
+San Bernardino,91737,6071,Rancho cucamonga,H1
+San Bernardino,91708,6071,Chino,H1
+San Bernardino,92509,6071,Jurupa valley,H1
+San Bernardino,92256,6071,Morongo valley,H1
+San Bernardino,92386,6071,Sugarloaf,H1
+San Bernardino,92278,6071,Twentynine palms,H1
+San Bernardino,93562,6071,Trona,H1
+San Bernardino,92392,6071,Victorville,H1
+San Bernardino,92374,6071,Redlands,H1
+San Bernardino,92363,6071,Needles,H1
+San Bernardino,92310,6071,Fort irwin,H1
+San Bernardino,92407,6071,San bernardino,H1
+San Bernardino,91701,6071,Rancho cucamonga,H1
+San Bernardino,91761,6071,Ontario,H1
+San Bernardino,91729,6071,Rancho cucamonga,H1
+San Bernardino,91752,6071,Mira loma,H1
+San Bernardino,92223,6071,Beaumont,H1
+San Bernardino,92301,6071,Adelanto,H1
+San Bernardino,92329,6071,Phelan,H1
+San Bernardino,92401,6071,San bernardino,H1
+San Bernardino,92391,6071,Twin peaks,H1
+San Bernardino,92350,6071,Loma linda,H1
+San Bernardino,92331,6071,Fontana,H1
+San Bernardino,92280,6071,Vidal,H1
+San Bernardino,92322,6071,Cedarpines park,H1
+San Bernardino,92341,6071,Green valley lake,H1
+San Bernardino,92267,6071,Parker dam,H1
+San Bernardino,93516,6071,Boron,H1
+San Bernardino,92336,6071,Fontana,H1
+San Bernardino,92346,6071,Highland,H1
+San Bernardino,92359,6071,Mentone,H1
+San Bernardino,92371,6071,Phelan,H1
+San Bernardino,92311,6071,Barstow,H1
+San Bernardino,92377,6071,Rialto,H1
+San Bernardino,92395,6071,Victorville,H1
+San Bernardino,92397,6071,Wrightwood,H1
+San Bernardino,92314,6071,Big bear city,H1
+San Bernardino,92320,6071,Calimesa,H1
+San Bernardino,91786,6071,Upland,H1
+San Bernardino,92411,6071,San bernardino,H1
+San Bernardino,92309,6071,Baker,H1
+San Bernardino,92385,6071,Skyforest,H1
+San Bernardino,92378,6071,Rimforest,H1
+San Bernardino,92358,6071,Lytle creek,H1
+San Bernardino,92376,6071,Rialto,H1
+San Bernardino,92325,6071,Crestline,H1
+San Bernardino,91739,6071,Rancho cucamonga,H1
+San Bernardino,91762,6071,Ontario,H1
+San Bernardino,91766,6071,Pomona,H1
+San Bernardino,92410,6071,San bernardino,H1
+San Bernardino,92225,6071,Blythe,H1
+San Bernardino,92252,6071,Joshua tree,H1
+San Bernardino,92308,6071,Apple valley,H1
+San Bernardino,92375,6071,Redlands,H1
+San Bernardino,92242,6071,Earp,H1
+San Bernardino,92339,6071,Forest falls,H1
+San Bernardino,92338,6071,Ludlow,H1
+San Bernardino,92321,6071,Cedar glen,H1
+San Bernardino,92268,6071,Pioneertown,H1
+San Bernardino,92324,6071,Colton,H1
+San Bernardino,92405,6071,San bernardino,H1
+San Bernardino,92354,6071,Loma linda,H1
+San Bernardino,92337,6071,Fontana,H1
+San Bernardino,92347,6071,Hinkley,H1
+San Bernardino,92408,6071,San bernardino,H1
+San Bernardino,92413,6071,San bernardino,H1
+San Bernardino,92427,6071,San bernardino,H1
+San Bernardino,92307,6071,Apple valley,H1
+San Bernardino,92880,6071,Corona,H1
+San Bernardino,92333,6071,Fawnskin,H1
+San Bernardino,92327,6071,Daggett,H1
+San Bernardino,92334,6071,Fontana,H1
+San Bernardino,92286,6071,Yucca valley,H1
+San Bernardino,92415,6071,San bernardino,H1
+San Bernardino,91743,6071,Guasti,H1
+San Bernardino,92398,6071,Yermo,H1
+San Bernardino,92323,6071,Cima,H1
+San Bernardino,92357,6071,Loma linda,H1
+San Diego,91901,6073,Alpine,H1
+San Diego,91950,6073,National city,H1
+San Diego,91945,6073,Lemon grove,H1
+San Diego,92036,6073,Julian,H1
+San Diego,92037,6073,La jolla,H1
+San Diego,92109,6073,San diego,H1
+San Diego,92111,6073,San diego,H1
+San Diego,92093,6073,La jolla,H1
+San Diego,92120,6073,San diego,H1
+San Diego,92119,6073,San diego,H1
+San Diego,92169,6073,San diego,H1
+San Diego,92192,6073,San diego,H1
+San Diego,92030,6073,Escondido,H1
+San Diego,92066,6073,Ranchita,H1
+San Diego,92153,6073,San diego,H1
+San Diego,92166,6073,San diego,H1
+San Diego,92136,6073,San diego,H1
+San Diego,91946,6073,Lemon grove,H1
+San Diego,92013,6073,Carlsbad,H1
+San Diego,92175,6073,San diego,H1
+San Diego,92191,6073,San diego,H1
+San Diego,91931,6073,Guatay,H1
+San Diego,92199,6073,San diego,H1
+San Diego,91911,6073,Chula vista,H1
+San Diego,92004,6073,Borrego springs,H1
+San Diego,92020,6073,El cajon,H1
+San Diego,91941,6073,La mesa,H1
+San Diego,91943,6073,La mesa,H1
+San Diego,92007,6073,Cardiff by the sea,H1
+San Diego,92102,6073,San diego,H1
+San Diego,92064,6073,Poway,H1
+San Diego,92061,6073,Pauma valley,H1
+San Diego,92116,6073,San diego,H1
+San Diego,92196,6073,San diego,H1
+San Diego,92132,6073,San diego,H1
+San Diego,91963,6073,Potrero,H1
+San Diego,92051,6073,Oceanside,H1
+San Diego,92052,6073,Oceanside,H1
+San Diego,92055,6073,Camp pendleton,H1
+San Diego,92158,6073,San diego,H1
+San Diego,92179,6073,San diego,H1
+San Diego,92197,6073,San diego,H1
+San Diego,92022,6073,El cajon,H1
+San Diego,92023,6073,Encinitas,H1
+San Diego,91932,6073,Imperial beach,H1
+San Diego,92018,6073,Carlsbad,H1
+San Diego,92027,6073,Escondido,H1
+San Diego,91914,6073,Chula vista,H1
+San Diego,91978,6073,Spring valley,H1
+San Diego,92105,6073,San diego,H1
+San Diego,92108,6073,San diego,H1
+San Diego,92058,6073,Oceanside,H1
+San Diego,92085,6073,Vista,H1
+San Diego,92114,6073,San diego,H1
+San Diego,92173,6073,San ysidro,H1
+San Diego,92176,6073,San diego,H1
+San Diego,92592,6073,Temecula,H1
+San Diego,92672,6073,San clemente,H1
+San Diego,92039,6073,La jolla,H1
+San Diego,92134,6073,San diego,H1
+San Diego,92060,6073,Palomar mountain,H1
+San Diego,91910,6073,Chula vista,H1
+San Diego,92008,6073,Carlsbad,H1
+San Diego,92011,6073,Carlsbad,H1
+San Diego,92014,6073,Del mar,H1
+San Diego,92024,6073,Encinitas,H1
+San Diego,91977,6073,Spring valley,H1
+San Diego,92009,6073,Carlsbad,H1
+San Diego,92101,6073,San diego,H1
+San Diego,92069,6073,San marcos,H1
+San Diego,92081,6073,Vista,H1
+San Diego,92067,6073,Rancho santa fe,H1
+San Diego,92110,6073,San diego,H1
+San Diego,92138,6073,San diego,H1
+San Diego,92113,6073,San diego,H1
+San Diego,92126,6073,San diego,H1
+San Diego,92130,6073,San diego,H1
+San Diego,92117,6073,San diego,H1
+San Diego,92127,6073,San diego,H1
+San Diego,92152,6073,San diego,H1
+San Diego,92195,6073,San diego,H1
+San Diego,92072,6073,Santee,H1
+San Diego,92159,6073,San diego,H1
+San Diego,92174,6073,San diego,H1
+San Diego,92046,6073,Escondido,H1
+San Diego,92142,6073,San diego,H1
+San Diego,92074,6073,Poway,H1
+San Diego,92049,6073,Oceanside,H1
+San Diego,92068,6073,San luis rey,H1
+San Diego,91917,6073,Dulzura,H1
+San Diego,92096,6073,San marcos,H1
+San Diego,91908,6073,Bonita,H1
+San Diego,91915,6073,Chula vista,H1
+San Diego,92028,6073,Fallbrook,H1
+San Diego,92029,6073,Escondido,H1
+San Diego,92054,6073,Oceanside,H1
+San Diego,91951,6073,National city,H1
+San Diego,91916,6073,Descanso,H1
+San Diego,91962,6073,Pine valley,H1
+San Diego,91976,6073,Spring valley,H1
+San Diego,92103,6073,San diego,H1
+San Diego,92131,6073,San diego,H1
+San Diego,92079,6073,San marcos,H1
+San Diego,92143,6073,San ysidro,H1
+San Diego,92170,6073,San diego,H1
+San Diego,92171,6073,San diego,H1
+San Diego,92168,6073,San diego,H1
+San Diego,91980,6073,Tecate,H1
+San Diego,92165,6073,San diego,H1
+San Diego,92160,6073,San diego,H1
+San Diego,91906,6073,Campo,H1
+San Diego,91942,6073,La mesa,H1
+San Diego,92040,6073,Lakeside,H1
+San Diego,91934,6073,Jacumba,H1
+San Diego,92083,6073,Vista,H1
+San Diego,92084,6073,Vista,H1
+San Diego,92104,6073,San diego,H1
+San Diego,92065,6073,Ramona,H1
+San Diego,92059,6073,Pala,H1
+San Diego,92086,6073,Warner springs,H1
+San Diego,92122,6073,San diego,H1
+San Diego,92123,6073,San diego,H1
+San Diego,92115,6073,San diego,H1
+San Diego,92150,6073,San diego,H1
+San Diego,92163,6073,San diego,H1
+San Diego,91912,6073,Chula vista,H1
+San Diego,91944,6073,La mesa,H1
+San Diego,92137,6073,San diego,H1
+San Diego,92167,6073,San diego,H1
+San Diego,91903,6073,Alpine,H1
+San Diego,91902,6073,Bonita,H1
+San Diego,92021,6073,El cajon,H1
+San Diego,92025,6073,Escondido,H1
+San Diego,92010,6073,Carlsbad,H1
+San Diego,92019,6073,El cajon,H1
+San Diego,92003,6073,Bonsall,H1
+San Diego,92071,6073,Santee,H1
+San Diego,92056,6073,Oceanside,H1
+San Diego,92075,6073,Solana beach,H1
+San Diego,92078,6073,San marcos,H1
+San Diego,92088,6073,Fallbrook,H1
+San Diego,92107,6073,San diego,H1
+San Diego,92070,6073,Santa ysabel,H1
+San Diego,92121,6073,San diego,H1
+San Diego,92124,6073,San diego,H1
+San Diego,92128,6073,San diego,H1
+San Diego,92129,6073,San diego,H1
+San Diego,92118,6073,Coronado,H1
+San Diego,92154,6073,San diego,H1
+San Diego,92172,6073,San diego,H1
+San Diego,92536,6073,Aguanga,H1
+San Diego,92112,6073,San diego,H1
+San Diego,91905,6073,Boulevard,H1
+San Diego,92178,6073,Coronado,H1
+San Diego,92147,6073,San diego,H1
+San Diego,92193,6073,San diego,H1
+San Diego,92155,6073,San diego,H1
+San Diego,92145,6073,San diego,H1
+San Diego,92135,6073,San diego,H1
+San Diego,91913,6073,Chula vista,H1
+San Diego,92026,6073,Escondido,H1
+San Diego,91933,6073,Imperial beach,H1
+San Diego,92033,6073,Escondido,H1
+San Diego,91921,6073,Chula vista,H1
+San Diego,92038,6073,La jolla,H1
+San Diego,91935,6073,Jamul,H1
+San Diego,92082,6073,Valley center,H1
+San Diego,92091,6073,Rancho santa fe,H1
+San Diego,92057,6073,Oceanside,H1
+San Diego,92106,6073,San diego,H1
+San Diego,92139,6073,San diego,H1
+San Diego,92140,6073,San diego,H1
+San Diego,92198,6073,San diego,H1
+San Diego,92177,6073,San diego,H1
+San Diego,91979,6073,Spring valley,H1
+San Diego,92149,6073,San diego,H1
+San Diego,92092,6073,La jolla,H1
+San Diego,92182,6073,San diego,H1
+San Diego,91948,6073,Mount laguna,H1
+San Diego,92161,6073,San diego,H1
+San Francisco,94109,6075,San francisco,H6
+San Francisco,94131,6075,San francisco,H6
+San Francisco,94158,6075,San francisco,H6
+San Francisco,94127,6075,San francisco,H6
+San Francisco,94126,6075,San francisco,H6
+San Francisco,94164,6075,San francisco,H6
+San Francisco,94147,6075,San francisco,H6
+San Francisco,94121,6075,San francisco,H6
+San Francisco,94123,6075,San francisco,H6
+San Francisco,94118,6075,San francisco,H6
+San Francisco,94117,6075,San francisco,H6
+San Francisco,94014,6075,Daly city,H6
+San Francisco,94188,6075,San francisco,H6
+San Francisco,94159,6075,San francisco,H6
+San Francisco,94110,6075,San francisco,H6
+San Francisco,94129,6075,San francisco,H6
+San Francisco,94141,6075,San francisco,H6
+San Francisco,94107,6075,San francisco,H6
+San Francisco,94124,6075,San francisco,H6
+San Francisco,94134,6075,San francisco,H6
+San Francisco,94103,6075,San francisco,H6
+San Francisco,94104,6075,San francisco,H6
+San Francisco,94105,6075,San francisco,H6
+San Francisco,94112,6075,San francisco,H6
+San Francisco,94122,6075,San francisco,H6
+San Francisco,94133,6075,San francisco,H6
+San Francisco,94132,6075,San francisco,H6
+San Francisco,94143,6075,San francisco,H6
+San Francisco,94140,6075,San francisco,H6
+San Francisco,94108,6075,San francisco,H6
+San Francisco,94116,6075,San francisco,H6
+San Francisco,94102,6075,San francisco,H6
+San Francisco,94111,6075,San francisco,H6
+San Francisco,94114,6075,San francisco,H6
+San Francisco,94115,6075,San francisco,H6
+San Francisco,94130,6075,San francisco,H6
+San Francisco,94119,6075,San francisco,H6
+San Francisco,94146,6075,San francisco,H6
+San Joaquin,95202,6077,Stockton,H1
+San Joaquin,95237,6077,Lockeford,H1
+San Joaquin,95690,6077,Walnut grove,H1
+San Joaquin,95213,6077,Stockton,H1
+San Joaquin,95208,6077,Stockton,H1
+San Joaquin,95253,6077,Victor,H1
+San Joaquin,95211,6077,Stockton,H1
+San Joaquin,95227,6077,Clements,H1
+San Joaquin,95204,6077,Stockton,H1
+San Joaquin,95205,6077,Stockton,H1
+San Joaquin,95336,6077,Manteca,H1
+San Joaquin,95366,6077,Ripon,H1
+San Joaquin,95320,6077,Escalon,H1
+San Joaquin,95385,6077,Vernalis,H1
+San Joaquin,95686,6077,Thornton,H1
+San Joaquin,95240,6077,Lodi,H1
+San Joaquin,95215,6077,Stockton,H1
+San Joaquin,95210,6077,Stockton,H1
+San Joaquin,95220,6077,Acampo,H1
+San Joaquin,95231,6077,French camp,H1
+San Joaquin,95209,6077,Stockton,H1
+San Joaquin,95258,6077,Woodbridge,H1
+San Joaquin,95203,6077,Stockton,H1
+San Joaquin,95206,6077,Stockton,H1
+San Joaquin,95377,6077,Tracy,H1
+San Joaquin,95269,6077,Stockton,H1
+San Joaquin,95267,6077,Stockton,H1
+San Joaquin,95207,6077,Stockton,H1
+San Joaquin,95219,6077,Stockton,H1
+San Joaquin,95632,6077,Galt,H1
+San Joaquin,95337,6077,Manteca,H1
+San Joaquin,95330,6077,Lathrop,H1
+San Joaquin,95241,6077,Lodi,H1
+San Joaquin,95378,6077,Tracy,H1
+San Joaquin,95236,6077,Linden,H1
+San Joaquin,95391,6077,Tracy,H1
+San Joaquin,95304,6077,Tracy,H1
+San Joaquin,95367,6077,Riverbank,H1
+San Joaquin,95376,6077,Tracy,H1
+San Joaquin,95201,6077,Stockton,H1
+San Joaquin,95234,6077,Holt,H1
+San Joaquin,95212,6077,Stockton,H1
+San Joaquin,95242,6077,Lodi,H1
+San Joaquin,95361,6077,Oakdale,H1
+San Joaquin,95230,6077,Farmington,H1
+San Luis Obispo,93420,6079,Arroyo grande,H1
+San Luis Obispo,93406,6079,San luis obispo,H1
+San Luis Obispo,93445,6079,Oceano,H1
+San Luis Obispo,93421,6079,Arroyo grande,H1
+San Luis Obispo,93426,6079,Bradley,H1
+San Luis Obispo,93443,6079,Morro bay,H1
+San Luis Obispo,93435,6079,Harmony,H1
+San Luis Obispo,93453,6079,Santa margarita,H1
+San Luis Obispo,93409,6079,San luis obispo,H1
+San Luis Obispo,93428,6079,Cambria,H1
+San Luis Obispo,93452,6079,San simeon,H1
+San Luis Obispo,93424,6079,Avila beach,H1
+San Luis Obispo,93446,6079,Paso robles,H1
+San Luis Obispo,93430,6079,Cayucos,H1
+San Luis Obispo,93444,6079,Nipomo,H1
+San Luis Obispo,93408,6079,San luis obispo,H1
+San Luis Obispo,93407,6079,San luis obispo,H1
+San Luis Obispo,93410,6079,San luis obispo,H1
+San Luis Obispo,93423,6079,Atascadero,H1
+San Luis Obispo,93449,6079,Pismo beach,H1
+San Luis Obispo,93465,6079,Templeton,H1
+San Luis Obispo,93461,6079,Shandon,H1
+San Luis Obispo,93254,6079,New cuyama,H1
+San Luis Obispo,93405,6079,San luis obispo,H1
+San Luis Obispo,93402,6079,Los osos,H1
+San Luis Obispo,93442,6079,Morro bay,H1
+San Luis Obispo,93422,6079,Atascadero,H1
+San Luis Obispo,93432,6079,Creston,H1
+San Luis Obispo,93403,6079,San luis obispo,H1
+San Luis Obispo,93412,6079,Los osos,H1
+San Luis Obispo,93433,6079,Grover beach,H1
+San Luis Obispo,93454,6079,Santa maria,H1
+San Luis Obispo,93458,6079,Santa maria,H1
+San Luis Obispo,93252,6079,Maricopa,H1
+San Luis Obispo,93451,6079,San miguel,H1
+San Luis Obispo,93447,6079,Paso robles,H1
+San Luis Obispo,93448,6079,Pismo beach,H1
+San Luis Obispo,93483,6079,Grover beach,H1
+San Luis Obispo,93401,6079,San luis obispo,H1
+San Luis Obispo,93475,6079,Oceano,H1
+San Mateo,94404,6081,San mateo,H1
+San Mateo,94128,6081,San francisco,H1
+San Mateo,94011,6081,Burlingame,H1
+San Mateo,94017,6081,Daly city,H1
+San Mateo,94080,6081,South san francisco,H1
+San Mateo,94070,6081,San carlos,H1
+San Mateo,94014,6081,Daly city,H1
+San Mateo,94025,6081,Menlo park,H1
+San Mateo,94030,6081,Millbrae,H1
+San Mateo,94044,6081,Pacifica,H1
+San Mateo,94065,6081,Redwood city,H1
+San Mateo,94497,6081,San mateo,H1
+San Mateo,94066,6081,San bruno,H1
+San Mateo,94027,6081,Atherton,H1
+San Mateo,94021,6081,Loma mar,H1
+San Mateo,94401,6081,San mateo,H1
+San Mateo,94002,6081,Belmont,H1
+San Mateo,94010,6081,Burlingame,H1
+San Mateo,94028,6081,Portola valley,H1
+San Mateo,94063,6081,Redwood city,H1
+San Mateo,94125,6081,San francisco,H1
+San Mateo,94303,6081,Palo alto,H1
+San Mateo,94134,6081,San francisco,H1
+San Mateo,94015,6081,Daly city,H1
+San Mateo,94018,6081,El granada,H1
+San Mateo,94074,6081,San gregorio,H1
+San Mateo,94026,6081,Menlo park,H1
+San Mateo,94112,6081,San francisco,H1
+San Mateo,94403,6081,San mateo,H1
+San Mateo,94019,6081,Half moon bay,H1
+San Mateo,94038,6081,Moss beach,H1
+San Mateo,94402,6081,San mateo,H1
+San Mateo,94005,6081,Brisbane,H1
+San Mateo,94064,6081,Redwood city,H1
+San Mateo,94020,6081,La honda,H1
+San Mateo,94061,6081,Redwood city,H1
+San Mateo,94062,6081,Redwood city,H1
+San Mateo,94037,6081,Montara,H1
+San Mateo,94083,6081,South san francisco,H1
+San Mateo,94060,6081,Pescadero,H1
+Santa Barbara,93105,6083,Santa barbara,H1
+Santa Barbara,93116,6083,Goleta,H1
+Santa Barbara,93437,6083,Lompoc,H1
+Santa Barbara,93102,6083,Santa barbara,H1
+Santa Barbara,93120,6083,Santa barbara,H1
+Santa Barbara,93440,6083,Los alamos,H1
+Santa Barbara,93427,6083,Buellton,H1
+Santa Barbara,93101,6083,Santa barbara,H1
+Santa Barbara,93118,6083,Goleta,H1
+Santa Barbara,93160,6083,Santa barbara,H1
+Santa Barbara,93441,6083,Los olivos,H1
+Santa Barbara,93436,6083,Lompoc,H1
+Santa Barbara,93109,6083,Santa barbara,H1
+Santa Barbara,93111,6083,Santa barbara,H1
+Santa Barbara,93106,6083,Santa barbara,H1
+Santa Barbara,93254,6083,New cuyama,H1
+Santa Barbara,93429,6083,Casmalia,H1
+Santa Barbara,93013,6083,Carpinteria,H1
+Santa Barbara,93455,6083,Santa maria,H1
+Santa Barbara,93190,6083,Santa barbara,H1
+Santa Barbara,93110,6083,Santa barbara,H1
+Santa Barbara,93108,6083,Santa barbara,H1
+Santa Barbara,93457,6083,Santa maria,H1
+Santa Barbara,93438,6083,Lompoc,H1
+Santa Barbara,93014,6083,Carpinteria,H1
+Santa Barbara,93434,6083,Guadalupe,H1
+Santa Barbara,93454,6083,Santa maria,H1
+Santa Barbara,93463,6083,Solvang,H1
+Santa Barbara,93458,6083,Santa maria,H1
+Santa Barbara,93456,6083,Santa maria,H1
+Santa Barbara,93252,6083,Maricopa,H1
+Santa Barbara,93117,6083,Goleta,H1
+Santa Barbara,93130,6083,Santa barbara,H1
+Santa Barbara,93150,6083,Santa barbara,H1
+Santa Barbara,93464,6083,Solvang,H1
+Santa Barbara,93460,6083,Santa ynez,H1
+Santa Barbara,93103,6083,Santa barbara,H1
+Santa Barbara,93140,6083,Santa barbara,H1
+Santa Barbara,93121,6083,Santa barbara,H1
+Santa Barbara,93067,6083,Summerland,H1
+Santa Barbara,93199,6083,Goleta,H1
+Santa Clara,94550,6085,Livermore,H1
+Santa Clara,94040,6085,Mountain view,H1
+Santa Clara,95033,6085,Los gatos,H1
+Santa Clara,95111,6085,San jose,H1
+Santa Clara,95113,6085,San jose,H1
+Santa Clara,95132,6085,San jose,H1
+Santa Clara,95122,6085,San jose,H1
+Santa Clara,95138,6085,San jose,H1
+Santa Clara,95150,6085,San jose,H1
+Santa Clara,95172,6085,San jose,H1
+Santa Clara,95071,6085,Saratoga,H1
+Santa Clara,95164,6085,San jose,H1
+Santa Clara,95109,6085,San jose,H1
+Santa Clara,95141,6085,San jose,H1
+Santa Clara,94089,6085,Sunnyvale,H1
+Santa Clara,94301,6085,Palo alto,H1
+Santa Clara,95030,6085,Los gatos,H1
+Santa Clara,95119,6085,San jose,H1
+Santa Clara,95121,6085,San jose,H1
+Santa Clara,95156,6085,San jose,H1
+Santa Clara,95101,6085,San jose,H1
+Santa Clara,94306,6085,Palo alto,H1
+Santa Clara,94024,6085,Los altos,H1
+Santa Clara,95035,6085,Milpitas,H1
+Santa Clara,95070,6085,Saratoga,H1
+Santa Clara,95129,6085,San jose,H1
+Santa Clara,95130,6085,San jose,H1
+Santa Clara,95127,6085,San jose,H1
+Santa Clara,95123,6085,San jose,H1
+Santa Clara,95153,6085,San jose,H1
+Santa Clara,95002,6085,Alviso,H1
+Santa Clara,95154,6085,San jose,H1
+Santa Clara,94085,6085,Sunnyvale,H1
+Santa Clara,94304,6085,Palo alto,H1
+Santa Clara,94028,6085,Portola valley,H1
+Santa Clara,95037,6085,Morgan hill,H1
+Santa Clara,95050,6085,Santa clara,H1
+Santa Clara,95076,6085,Watsonville,H1
+Santa Clara,95120,6085,San jose,H1
+Santa Clara,95118,6085,San jose,H1
+Santa Clara,95131,6085,San jose,H1
+Santa Clara,95170,6085,San jose,H1
+Santa Clara,95134,6085,San jose,H1
+Santa Clara,95135,6085,San jose,H1
+Santa Clara,95021,6085,Gilroy,H1
+Santa Clara,95011,6085,Campbell,H1
+Santa Clara,95158,6085,San jose,H1
+Santa Clara,95157,6085,San jose,H1
+Santa Clara,94035,6085,Mountain view,H1
+Santa Clara,95191,6085,San jose,H1
+Santa Clara,95013,6085,Coyote,H1
+Santa Clara,94087,6085,Sunnyvale,H1
+Santa Clara,94303,6085,Palo alto,H1
+Santa Clara,95051,6085,Santa clara,H1
+Santa Clara,95032,6085,Los gatos,H1
+Santa Clara,95056,6085,Santa clara,H1
+Santa Clara,95110,6085,San jose,H1
+Santa Clara,95124,6085,San jose,H1
+Santa Clara,95125,6085,San jose,H1
+Santa Clara,95044,6085,Redwood estates,H1
+Santa Clara,95151,6085,San jose,H1
+Santa Clara,95155,6085,San jose,H1
+Santa Clara,95015,6085,Cupertino,H1
+Santa Clara,95055,6085,Santa clara,H1
+Santa Clara,95103,6085,San jose,H1
+Santa Clara,94086,6085,Sunnyvale,H1
+Santa Clara,95008,6085,Campbell,H1
+Santa Clara,94043,6085,Mountain view,H1
+Santa Clara,95054,6085,Santa clara,H1
+Santa Clara,95112,6085,San jose,H1
+Santa Clara,95117,6085,San jose,H1
+Santa Clara,95136,6085,San jose,H1
+Santa Clara,95026,6085,Holy city,H1
+Santa Clara,95009,6085,Campbell,H1
+Santa Clara,94088,6085,Sunnyvale,H1
+Santa Clara,95052,6085,Santa clara,H1
+Santa Clara,94042,6085,Mountain view,H1
+Santa Clara,94039,6085,Mountain view,H1
+Santa Clara,95192,6085,San jose,H1
+Santa Clara,94023,6085,Los altos,H1
+Santa Clara,95046,6085,San martin,H1
+Santa Clara,95023,6085,Hollister,H1
+Santa Clara,95116,6085,San jose,H1
+Santa Clara,95126,6085,San jose,H1
+Santa Clara,95159,6085,San jose,H1
+Santa Clara,95036,6085,Milpitas,H1
+Santa Clara,94020,6085,La honda,H1
+Santa Clara,95161,6085,San jose,H1
+Santa Clara,95152,6085,San jose,H1
+Santa Clara,94302,6085,Palo alto,H1
+Santa Clara,94305,6085,Stanford,H1
+Santa Clara,94022,6085,Los altos,H1
+Santa Clara,94041,6085,Mountain view,H1
+Santa Clara,95020,6085,Gilroy,H1
+Santa Clara,95014,6085,Cupertino,H1
+Santa Clara,95038,6085,Morgan hill,H1
+Santa Clara,95128,6085,San jose,H1
+Santa Clara,95133,6085,San jose,H1
+Santa Clara,95148,6085,San jose,H1
+Santa Clara,95140,6085,Mount hamilton,H1
+Santa Clara,95031,6085,Los gatos,H1
+Santa Clara,95173,6085,San jose,H1
+Santa Clara,95139,6085,San jose,H1
+Santa Clara,95108,6085,San jose,H1
+Santa Clara,95160,6085,San jose,H1
+Santa Clara,95106,6085,San jose,H1
+Santa Cruz,95033,6087,Los gatos,H1
+Santa Cruz,95010,6087,Capitola,H1
+Santa Cruz,95061,6087,Santa cruz,H1
+Santa Cruz,95017,6087,Davenport,H1
+Santa Cruz,95077,6087,Watsonville,H1
+Santa Cruz,95006,6087,Boulder creek,H1
+Santa Cruz,95062,6087,Santa cruz,H1
+Santa Cruz,95076,6087,Watsonville,H1
+Santa Cruz,95019,6087,Freedom,H1
+Santa Cruz,95007,6087,Brookdale,H1
+Santa Cruz,95073,6087,Soquel,H1
+Santa Cruz,95041,6087,Mount hermon,H1
+Santa Cruz,95060,6087,Santa cruz,H1
+Santa Cruz,95065,6087,Santa cruz,H1
+Santa Cruz,95003,6087,Aptos,H1
+Santa Cruz,95005,6087,Ben lomond,H1
+Santa Cruz,95018,6087,Felton,H1
+Santa Cruz,95001,6087,Aptos,H1
+Santa Cruz,95067,6087,Scotts valley,H1
+Santa Cruz,95066,6087,Scotts valley,H1
+Santa Cruz,95063,6087,Santa cruz,H1
+Santa Cruz,94060,6087,Pescadero,H1
+Santa Cruz,95064,6087,Santa cruz,H1
+Shasta,96001,6089,Redding,H1
+Shasta,96022,6089,Cottonwood,H1
+Shasta,96062,6089,Millville,H1
+Shasta,96076,6089,Platina,H1
+Shasta,96099,6089,Redding,H1
+Shasta,96051,6089,Lakehead,H1
+Shasta,96019,6089,Shasta lake,H1
+Shasta,96096,6089,Whitmore,H1
+Shasta,96047,6089,Igo,H1
+Shasta,96040,6089,Hat creek,H1
+Shasta,96087,6089,Shasta,H1
+Shasta,96095,6089,Whiskeytown,H1
+Shasta,96089,6089,Shasta lake,H1
+Shasta,96002,6089,Redding,H1
+Shasta,96073,6089,Palo cedro,H1
+Shasta,96017,6089,Castella,H1
+Shasta,96049,6089,Redding,H1
+Shasta,96069,6089,Oak run,H1
+Shasta,96011,6089,Big bend,H1
+Shasta,96056,6089,Mcarthur,H1
+Shasta,96059,6089,Manton,H1
+Shasta,96071,6089,Old station,H1
+Shasta,96007,6089,Anderson,H1
+Shasta,96028,6089,Fall river mills,H1
+Shasta,96088,6089,Shingletown,H1
+Shasta,96065,6089,Montgomery creek,H1
+Shasta,96033,6089,French gulch,H1
+Shasta,96016,6089,Cassel,H1
+Shasta,96084,6089,Round mountain,H1
+Shasta,96025,6089,Dunsmuir,H1
+Shasta,96008,6089,Bella vista,H1
+Shasta,96003,6089,Redding,H1
+Shasta,96013,6089,Burney,H1
+Sierra,96118,6091,Loyalton,H1
+Sierra,95922,6091,Camptonville,H1
+Sierra,95910,6091,Alleghany,H1
+Sierra,96125,6091,Sierra city,H1
+Sierra,95936,6091,Downieville,H1
+Sierra,95960,6091,North san juan,H1
+Sierra,96124,6091,Calpine,H1
+Sierra,95944,6091,Goodyears bar,H1
+Sierra,96126,6091,Sierraville,H1
+Siskiyou,96134,6093,Tulelake,H1
+Siskiyou,96031,6093,Forks of salmon,H1
+Siskiyou,96085,6093,Scott bar,H1
+Siskiyou,96067,6093,Mount shasta,H1
+Siskiyou,96014,6093,Callahan,H1
+Siskiyou,96038,6093,Grenada,H1
+Siskiyou,96097,6093,Yreka,H1
+Siskiyou,96032,6093,Fort jones,H1
+Siskiyou,96058,6093,Macdoel,H1
+Siskiyou,96086,6093,Seiad valley,H1
+Siskiyou,96094,6093,Weed,H1
+Siskiyou,96044,6093,Hornbrook,H1
+Siskiyou,96039,6093,Happy camp,H1
+Siskiyou,96037,6093,Greenview,H1
+Siskiyou,96025,6093,Dunsmuir,H1
+Siskiyou,96027,6093,Etna,H1
+Siskiyou,96050,6093,Klamath river,H1
+Siskiyou,96064,6093,Montague,H1
+Siskiyou,96034,6093,Gazelle,H1
+Siskiyou,95568,6093,Somes bar,H1
+Siskiyou,96023,6093,Dorris,H1
+Siskiyou,96057,6093,Mccloud,H1
+Solano,94590,6095,Vallejo,H1
+Solano,95616,6095,Davis,H1
+Solano,95690,6095,Walnut grove,H1
+Solano,94533,6095,Fairfield,H1
+Solano,95688,6095,Vacaville,H1
+Solano,94558,6095,Napa,H1
+Solano,94512,6095,Birds landing,H1
+Solano,94503,6095,American canyon,H1
+Solano,95618,6095,Davis,H1
+Solano,95620,6095,Dixon,H1
+Solano,95696,6095,Vacaville,H1
+Solano,94592,6095,Vallejo,H1
+Solano,94589,6095,Vallejo,H1
+Solano,94591,6095,Vallejo,H1
+Solano,95625,6095,Elmira,H1
+Solano,94510,6095,Benicia,H1
+Solano,94571,6095,Rio vista,H1
+Solano,95687,6095,Vacaville,H1
+Solano,94535,6095,Travis afb,H1
+Solano,94585,6095,Suisun city,H1
+Solano,95694,6095,Winters,H1
+Solano,94534,6095,Fairfield,H1
+Sonoma,95448,6097,Healdsburg,H1
+Sonoma,94574,6097,Saint helena,H1
+Sonoma,95452,6097,Kenwood,H1
+Sonoma,95416,6097,Boyes hot springs,H1
+Sonoma,94953,6097,Petaluma,H1
+Sonoma,95425,6097,Cloverdale,H1
+Sonoma,94515,6097,Calistoga,H1
+Sonoma,95405,6097,Santa rosa,H1
+Sonoma,95441,6097,Geyserville,H1
+Sonoma,95419,6097,Camp meeker,H1
+Sonoma,94975,6097,Petaluma,H1
+Sonoma,95430,6097,Duncans mills,H1
+Sonoma,95421,6097,Cazadero,H1
+Sonoma,94558,6097,Napa,H1
+Sonoma,94931,6097,Cotati,H1
+Sonoma,95412,6097,Annapolis,H1
+Sonoma,94955,6097,Petaluma,H1
+Sonoma,95444,6097,Graton,H1
+Sonoma,95487,6097,Vineburg,H1
+Sonoma,95486,6097,Villa grande,H1
+Sonoma,94928,6097,Rohnert park,H1
+Sonoma,95404,6097,Santa rosa,H1
+Sonoma,95402,6097,Santa rosa,H1
+Sonoma,95465,6097,Occidental,H1
+Sonoma,95497,6097,The sea ranch,H1
+Sonoma,95476,6097,Sonoma,H1
+Sonoma,95442,6097,Glen ellen,H1
+Sonoma,95436,6097,Forestville,H1
+Sonoma,95461,6097,Middletown,H1
+Sonoma,94952,6097,Petaluma,H1
+Sonoma,95403,6097,Santa rosa,H1
+Sonoma,94954,6097,Petaluma,H1
+Sonoma,95433,6097,El verano,H1
+Sonoma,94923,6097,Bodega bay,H1
+Sonoma,95450,6097,Jenner,H1
+Sonoma,95471,6097,Rio nido,H1
+Sonoma,95473,6097,Sebastopol,H1
+Sonoma,94972,6097,Valley ford,H1
+Sonoma,95407,6097,Santa rosa,H1
+Sonoma,94945,6097,Novato,H1
+Sonoma,95462,6097,Monte rio,H1
+Sonoma,94922,6097,Bodega,H1
+Sonoma,95431,6097,Eldridge,H1
+Sonoma,95472,6097,Sebastopol,H1
+Sonoma,95445,6097,Gualala,H1
+Sonoma,95401,6097,Santa rosa,H1
+Sonoma,94951,6097,Penngrove,H1
+Sonoma,95406,6097,Santa rosa,H1
+Sonoma,94927,6097,Rohnert park,H1
+Sonoma,95480,6097,Stewarts point,H1
+Sonoma,94999,6097,Petaluma,H1
+Sonoma,95409,6097,Santa rosa,H1
+Sonoma,95492,6097,Windsor,H1
+Sonoma,95446,6097,Guerneville,H1
+Sonoma,95439,6097,Fulton,H1
+Stanislaus,94550,6099,Livermore,H1
+Stanislaus,95351,6099,Modesto,H1
+Stanislaus,95352,6099,Modesto,H1
+Stanislaus,95354,6099,Modesto,H1
+Stanislaus,95353,6099,Modesto,H1
+Stanislaus,95313,6099,Crows landing,H1
+Stanislaus,95382,6099,Turlock,H1
+Stanislaus,95358,6099,Modesto,H1
+Stanislaus,95360,6099,Newman,H1
+Stanislaus,95385,6099,Vernalis,H1
+Stanislaus,95356,6099,Modesto,H1
+Stanislaus,95328,6099,Keyes,H1
+Stanislaus,95323,6099,Hickman,H1
+Stanislaus,95319,6099,Empire,H1
+Stanislaus,95387,6099,Westley,H1
+Stanislaus,95326,6099,Hughson,H1
+Stanislaus,95350,6099,Modesto,H1
+Stanislaus,95316,6099,Denair,H1
+Stanislaus,95386,6099,Waterford,H1
+Stanislaus,95322,6099,Gustine,H1
+Stanislaus,95357,6099,Modesto,H1
+Stanislaus,95324,6099,Hilmar,H1
+Stanislaus,95363,6099,Patterson,H1
+Stanislaus,95380,6099,Turlock,H1
+Stanislaus,95307,6099,Ceres,H1
+Stanislaus,95329,6099,La grange,H1
+Stanislaus,95367,6099,Riverbank,H1
+Stanislaus,95397,6099,Modesto,H1
+Stanislaus,95355,6099,Modesto,H1
+Stanislaus,95361,6099,Oakdale,H1
+Stanislaus,95368,6099,Salida,H1
+Stanislaus,95381,6099,Turlock,H1
+Stanislaus,95230,6099,Farmington,H1
+Sutter,95645,6101,Knights landing,H1
+Sutter,95948,6101,Gridley,H1
+Sutter,95991,6101,Yuba city,H1
+Sutter,95993,6101,Yuba city,H1
+Sutter,95626,6101,Elverta,H1
+Sutter,95674,6101,Rio oso,H1
+Sutter,95982,6101,Sutter,H1
+Sutter,95659,6101,Nicolaus,H1
+Sutter,95836,6101,Sacramento,H1
+Sutter,95676,6101,Robbins,H1
+Sutter,95837,6101,Sacramento,H1
+Sutter,95692,6101,Wheatland,H1
+Sutter,95957,6101,Meridian,H1
+Sutter,95953,6101,Live oak,H1
+Sutter,95992,6101,Yuba city,H1
+Sutter,95668,6101,Pleasant grove,H1
+Tehama,96022,6103,Cottonwood,H1
+Tehama,96078,6103,Proberta,H1
+Tehama,96021,6103,Corning,H1
+Tehama,96076,6103,Platina,H1
+Tehama,96063,6103,Mineral,H1
+Tehama,95963,6103,Orland,H1
+Tehama,95973,6103,Chico,H1
+Tehama,96080,6103,Red bluff,H1
+Tehama,96059,6103,Manton,H1
+Tehama,96090,6103,Tehama,H1
+Tehama,96061,6103,Mill creek,H1
+Tehama,96092,6103,Vina,H1
+Tehama,96007,6103,Anderson,H1
+Tehama,96055,6103,Los molinos,H1
+Tehama,96035,6103,Gerber,H1
+Tehama,96074,6103,Paskenta,H1
+Tehama,96029,6103,Flournoy,H1
+Tehama,96075,6103,Paynes creek,H1
+Trinity,95595,6105,Zenia,H1
+Trinity,96076,6105,Platina,H1
+Trinity,96046,6105,Hyampom,H1
+Trinity,95526,6105,Bridgeville,H1
+Trinity,96052,6105,Lewiston,H1
+Trinity,96091,6105,Trinity center,H1
+Trinity,95527,6105,Burnt ranch,H1
+Trinity,96093,6105,Weaverville,H1
+Trinity,96024,6105,Douglas city,H1
+Trinity,96041,6105,Hayfork,H1
+Trinity,95552,6105,Mad river,H1
+Trinity,96048,6105,Junction city,H1
+Trinity,96010,6105,Big bar,H1
+Tulare,93247,6107,Lindsay,H1
+Tulare,93223,6107,Farmersville,H1
+Tulare,93286,6107,Woodlake,H1
+Tulare,93647,6107,Orosi,H1
+Tulare,93675,6107,Squaw valley,H1
+Tulare,93673,6107,Traver,H1
+Tulare,93244,6107,Lemon cove,H1
+Tulare,93666,6107,Sultana,H1
+Tulare,93215,6107,Delano,H1
+Tulare,93221,6107,Exeter,H1
+Tulare,93258,6107,Porterville,H1
+Tulare,93291,6107,Visalia,H1
+Tulare,93256,6107,Pixley,H1
+Tulare,93641,6107,Miramonte,H1
+Tulare,93278,6107,Visalia,H1
+Tulare,93275,6107,Tulare,H1
+Tulare,93603,6107,Badger,H1
+Tulare,93290,6107,Visalia,H1
+Tulare,93654,6107,Reedley,H1
+Tulare,93633,6107,Kings canyon national pk,H1
+Tulare,93292,6107,Visalia,H1
+Tulare,93271,6107,Three rivers,H1
+Tulare,93274,6107,Tulare,H1
+Tulare,93279,6107,Visalia,H1
+Tulare,93670,6107,Yettem,H1
+Tulare,93615,6107,Cutler,H1
+Tulare,93260,6107,Posey,H1
+Tulare,93218,6107,Ducor,H1
+Tulare,93237,6107,Kaweah,H1
+Tulare,93219,6107,Earlimart,H1
+Tulare,93230,6107,Hanford,H1
+Tulare,93272,6107,Tipton,H1
+Tulare,93618,6107,Dinuba,H1
+Tulare,93646,6107,Orange cove,H1
+Tulare,93631,6107,Kingsburg,H1
+Tulare,93208,6107,Camp nelson,H1
+Tulare,93261,6107,Richgrove,H1
+Tulare,93227,6107,Goshen,H1
+Tulare,93212,6107,Corcoran,H1
+Tulare,93235,6107,Ivanhoe,H1
+Tulare,93262,6107,Sequoia national park,H1
+Tulare,93201,6107,Alpaugh,H1
+Tulare,93257,6107,Porterville,H1
+Tulare,93277,6107,Visalia,H1
+Tulare,93267,6107,Strathmore,H1
+Tulare,93265,6107,Springville,H1
+Tulare,93270,6107,Terra bella,H1
+Tulare,93207,6107,California hot springs,H1
+Tuolumne,95311,6109,Coulterville,H1
+Tuolumne,95373,6109,Standard,H1
+Tuolumne,95364,6109,Pinecrest,H1
+Tuolumne,95305,6109,Big oak flat,H1
+Tuolumne,95321,6109,Groveland,H1
+Tuolumne,95310,6109,Columbia,H1
+Tuolumne,95383,6109,Twain harte,H1
+Tuolumne,95335,6109,Long barn,H1
+Tuolumne,95379,6109,Tuolumne,H1
+Tuolumne,95327,6109,Jamestown,H1
+Tuolumne,95370,6109,Sonora,H1
+Tuolumne,95372,6109,Soulsbyville,H1
+Tuolumne,95347,6109,Moccasin,H1
+Tuolumne,95329,6109,La grange,H1
+Tuolumne,95375,6109,Strawberry,H1
+Tuolumne,95309,6109,Chinese camp,H1
+Tuolumne,95346,6109,Mi wuk village,H1
+Ventura,91304,6111,Canoga park,H1
+Ventura,91307,6111,West hills,H1
+Ventura,93015,6111,Fillmore,H1
+Ventura,93023,6111,Ojai,H1
+Ventura,93060,6111,Santa paula,H1
+Ventura,93034,6111,Oxnard,H1
+Ventura,93024,6111,Ojai,H1
+Ventura,91359,6111,Westlake village,H1
+Ventura,90265,6111,Malibu,H1
+Ventura,93004,6111,Ventura,H1
+Ventura,93006,6111,Ventura,H1
+Ventura,93012,6111,Camarillo,H1
+Ventura,93041,6111,Port hueneme,H1
+Ventura,93065,6111,Simi valley,H1
+Ventura,93043,6111,Port hueneme cbc base,H1
+Ventura,93064,6111,Brandeis,H1
+Ventura,93009,6111,Ventura,H1
+Ventura,91320,6111,Newbury park,H1
+Ventura,93021,6111,Moorpark,H1
+Ventura,91361,6111,Westlake village,H1
+Ventura,91377,6111,Oak park,H1
+Ventura,93031,6111,Oxnard,H1
+Ventura,93040,6111,Piru,H1
+Ventura,93032,6111,Oxnard,H1
+Ventura,93066,6111,Somis,H1
+Ventura,91360,6111,Thousand oaks,H1
+Ventura,93010,6111,Camarillo,H1
+Ventura,93013,6111,Carpinteria,H1
+Ventura,93033,6111,Oxnard,H1
+Ventura,93036,6111,Oxnard,H1
+Ventura,93044,6111,Port hueneme,H1
+Ventura,93062,6111,Simi valley,H1
+Ventura,91358,6111,Thousand oaks,H1
+Ventura,93042,6111,Point mugu nawc,H1
+Ventura,93007,6111,Ventura,H1
+Ventura,93001,6111,Ventura,H1
+Ventura,93063,6111,Simi valley,H1
+Ventura,93252,6111,Maricopa,H1
+Ventura,91362,6111,Thousand oaks,H1
+Ventura,91319,6111,Newbury park,H1
+Ventura,93094,6111,Simi valley,H1
+Ventura,93020,6111,Moorpark,H1
+Ventura,93016,6111,Fillmore,H1
+Ventura,93030,6111,Oxnard,H1
+Ventura,93011,6111,Camarillo,H1
+Ventura,93005,6111,Ventura,H1
+Ventura,93061,6111,Santa paula,H1
+Ventura,91311,6111,Chatsworth,H1
+Ventura,93003,6111,Ventura,H1
+Ventura,93002,6111,Ventura,H1
+Ventura,93022,6111,Oak view,H1
+Ventura,93035,6111,Oxnard,H1
+Ventura,93225,6111,Frazier park,H1
+Ventura,93099,6111,Simi valley,H1
+Yolo,95616,6113,Davis,H1
+Yolo,95645,6113,Knights landing,H1
+Yolo,95697,6113,Yolo,H1
+Yolo,95691,6113,West sacramento,H1
+Yolo,95627,6113,Esparto,H1
+Yolo,95637,6113,Guinda,H1
+Yolo,95618,6113,Davis,H1
+Yolo,95620,6113,Dixon,H1
+Yolo,95799,6113,West sacramento,H1
+Yolo,95695,6113,Woodland,H1
+Yolo,95612,6113,Clarksburg,H1
+Yolo,95607,6113,Capay,H1
+Yolo,95606,6113,Brooks,H1
+Yolo,95937,6113,Dunnigan,H1
+Yolo,95653,6113,Madison,H1
+Yolo,95617,6113,Davis,H1
+Yolo,95694,6113,Winters,H1
+Yolo,95912,6113,Arbuckle,H1
+Yolo,95798,6113,West sacramento,H1
+Yolo,95615,6113,Courtland,H1
+Yolo,95679,6113,Rumsey,H1
+Yolo,95698,6113,Zamora,H1
+Yolo,95605,6113,West sacramento,H1
+Yolo,95776,6113,Woodland,H1
+Yuba,95977,6115,Smartsville,H1
+Yuba,95935,6115,Dobbins,H1
+Yuba,95901,6115,Marysville,H1
+Yuba,95914,6115,Bangor,H1
+Yuba,95925,6115,Challenge,H1
+Yuba,95962,6115,Oregon house,H1
+Yuba,95972,6115,Rackerby,H1
+Yuba,95903,6115,Beale afb,H1
+Yuba,95922,6115,Camptonville,H1
+Yuba,95981,6115,Strawberry valley,H1
+Yuba,95961,6115,Olivehurst,H1
+Yuba,95692,6115,Wheatland,H1
+Yuba,95941,6115,Forbestown,H1
+Yuba,95960,6115,North san juan,H1
+Yuba,95919,6115,Brownsville,H1
+Yuba,95966,6115,Oroville,H1
+Yuba,95918,6115,Browns valley,H1

@@ -1,0 +1,61 @@
+county,fips,state,state_code,cases,deaths
+Alameda,6001.0,California,CA,751799,15532
+Alpine,6003.0,California,CA,268,0
+Amador,6005.0,California,CA,5673,84
+Butte,6007.0,California,CA,40970,334
+Calaveras,6009.0,California,CA,6623,29
+Colusa,6011.0,California,CA,12634,105
+Contra Costa,6013.0,California,CA,456377,8559
+Del Norte,6015.0,California,CA,5847,20
+El Dorado,6017.0,California,CA,32214,38
+Fresno,6019.0,California,CA,742930,8439
+Glenn,6021.0,California,CA,14886,62
+Humboldt,6023.0,California,CA,17845,344
+Imperial,6025.0,California,CA,585464,11256
+Inyo,6027.0,California,CA,4690,158
+Kern,6029.0,California,CA,880568,8788
+Kings,6031.0,California,CA,254452,2761
+Lake,6033.0,California,CA,9907,58
+Lassen,6035.0,California,CA,26395,0
+Los Angeles,6037.0,California,CA,12127912,371037
+Madera,6039.0,California,CA,91132,1322
+Marin,6041.0,California,CA,262513,3891
+Mariposa,6043.0,California,CA,3258,119
+Mendocino,6045.0,California,CA,15282,242
+Merced,6047.0,California,CA,197932,2292
+Modoc,6049.0,California,CA,83,0
+Mono,6051.0,California,CA,7921,140
+Monterey,6053.0,California,CA,238515,1942
+Napa,6055.0,California,CA,47454,599
+Nevada,6057.0,California,CA,16747,141
+Orange,6059.0,California,CA,2009032,38449
+Placer,6061.0,California,CA,101987,1519
+Plumas,6063.0,California,CA,1681,0
+Riverside,6065.0,California,CA,2203716,53707
+Sacramento,6067.0,California,CA,537594,10435
+San Benito,6069.0,California,CA,33765,331
+San Bernardino,6071.0,California,CA,1728150,32186
+San Diego,6073.0,California,CA,1797898,42774
+San Francisco,6075.0,California,CA,476382,5794
+San Joaquin,6077.0,California,CA,565436,9479
+San Luis Obispo,6079.0,California,CA,98371,571
+San Mateo,6081.0,California,CA,403371,11570
+Santa Barbara,6083.0,California,CA,377324,3289
+Santa Clara,6085.0,California,CA,677386,19891
+Santa Cruz,6087.0,California,CA,61420,378
+Shasta,6089.0,California,CA,18757,712
+Sierra,6091.0,California,CA,147,0
+Siskiyou,6093.0,California,CA,4074,0
+Solano,6095.0,California,CA,191214,2854
+Sonoma,6097.0,California,CA,167203,1716
+Stanislaus,6099.0,California,CA,423086,6782
+Sutter,6101.0,California,CA,36375,443
+Tehama,6103.0,California,CA,10381,126
+Trinity,6105.0,California,CA,266,0
+Tulare,6107.0,California,CA,539394,13949
+Tuolumne,6109.0,California,CA,5898,45
+Ventura,6111.0,California,CA,395371,5680
+Yolo,6113.0,California,CA,82437,3380
+Yuba,6115.0,California,CA,21445,237
+Out of CA,80006.0,California,CA,0,0
+Unassigned,90006.0,California,CA,285,46
