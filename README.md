@@ -9,14 +9,14 @@ Searched Kaggle and downloaded four databases:
   C. US county and covid cases
   D. US county and corresponding zip codes
 
-# Step 2 - 
+# Step 2 - ERD
 Create Entity Relationship Diagram.
 
-# Step 3 - 
+# Step 3 - Transform 
 Cleaned the data using python.
 
-# Step 4 - 
+# Step 4 - SQL
 Created SQL tables.
 
-# Step 5 - 
+# Step 5 - Load
 Connect to PostgreSQL and upload data to tables.
