@@ -1,0 +1,61 @@
+,fips,county,state,state_code,cases,deaths
+0,6001.0,Alameda,California,CA,751799,15532
+1,6003.0,Alpine,California,CA,268,0
+2,6005.0,Amador,California,CA,5673,84
+3,6007.0,Butte,California,CA,40970,334
+4,6009.0,Calaveras,California,CA,6623,29
+5,6011.0,Colusa,California,CA,12634,105
+6,6013.0,Contra Costa,California,CA,456377,8559
+7,6015.0,Del Norte,California,CA,5847,20
+8,6017.0,El Dorado,California,CA,32214,38
+9,6019.0,Fresno,California,CA,742930,8439
+10,6021.0,Glenn,California,CA,14886,62
+11,6023.0,Humboldt,California,CA,17845,344
+12,6025.0,Imperial,California,CA,585464,11256
+13,6027.0,Inyo,California,CA,4690,158
+14,6029.0,Kern,California,CA,880568,8788
+15,6031.0,Kings,California,CA,254452,2761
+16,6033.0,Lake,California,CA,9907,58
+17,6035.0,Lassen,California,CA,26395,0
+18,6037.0,Los Angeles,California,CA,12127912,371037
+19,6039.0,Madera,California,CA,91132,1322
+20,6041.0,Marin,California,CA,262513,3891
+21,6043.0,Mariposa,California,CA,3258,119
+22,6045.0,Mendocino,California,CA,15282,242
+23,6047.0,Merced,California,CA,197932,2292
+24,6049.0,Modoc,California,CA,83,0
+25,6051.0,Mono,California,CA,7921,140
+26,6053.0,Monterey,California,CA,238515,1942
+27,6055.0,Napa,California,CA,47454,599
+28,6057.0,Nevada,California,CA,16747,141
+29,6059.0,Orange,California,CA,2009032,38449
+30,6061.0,Placer,California,CA,101987,1519
+31,6063.0,Plumas,California,CA,1681,0
+32,6065.0,Riverside,California,CA,2203716,53707
+33,6067.0,Sacramento,California,CA,537594,10435
+34,6069.0,San Benito,California,CA,33765,331
+35,6071.0,San Bernardino,California,CA,1728150,32186
+36,6073.0,San Diego,California,CA,1797898,42774
+37,6075.0,San Francisco,California,CA,476382,5794
+38,6077.0,San Joaquin,California,CA,565436,9479
+39,6079.0,San Luis Obispo,California,CA,98371,571
+40,6081.0,San Mateo,California,CA,403371,11570
+41,6083.0,Santa Barbara,California,CA,377324,3289
+42,6085.0,Santa Clara,California,CA,677386,19891
+43,6087.0,Santa Cruz,California,CA,61420,378
+44,6089.0,Shasta,California,CA,18757,712
+45,6091.0,Sierra,California,CA,147,0
+46,6093.0,Siskiyou,California,CA,4074,0
+47,6095.0,Solano,California,CA,191214,2854
+48,6097.0,Sonoma,California,CA,167203,1716
+49,6099.0,Stanislaus,California,CA,423086,6782
+50,6101.0,Sutter,California,CA,36375,443
+51,6103.0,Tehama,California,CA,10381,126
+52,6105.0,Trinity,California,CA,266,0
+53,6107.0,Tulare,California,CA,539394,13949
+54,6109.0,Tuolumne,California,CA,5898,45
+55,6111.0,Ventura,California,CA,395371,5680
+56,6113.0,Yolo,California,CA,82437,3380
+57,6115.0,Yuba,California,CA,21445,237
+58,80006.0,Out of CA,California,CA,0,0
+59,90006.0,Unassigned,California,CA,285,46
